@@ -1,0 +1,17 @@
+working_group_id, name, short_name, description, tsg,focus_area
+TSG-RAN WG1, Radio Layer 1 (Physical Layer), RAN1, "focuses on developing the physical layer specifications for radio interfaces in technologies like evolved UTRA, 5G NR, and beyond. Its scope includes specifications for defining physical channels, modulation, physical layer multiplexing, channel coding, error detection, physical layer procedures(both control and data), definition of measurements and their provision by the physical layer to the upper layers , and UE capabilities for device testing.", RAN, Radio Access Network
+TSG-RAN WG2, Radio Layer 2/3 and Radio Resouce Control, RAN2, "develops specifications for the radio interface architecture and protocols, including MAC, RLC, PDCP, and SDAP, for Evolved UTRA, 5G NR, and beyond. It defines protocols for UE-RAN communication, sidelink (UE-UE), relaying (Relay-eNB), Integrated Access and Backhaul (IAB), and positioning (UE-Positioning Server). RAN2 handles radio resource management (RRM) procedures, intra/inter-RAT handovers, multi-Radio Dual Connectivity (MR-DC), cell selection/re-selection, and measurement collection for optimization. It specifies UE capabilities collaboratively with RAN WG1 (Layer 1) and WG4 (Radio), and identifies testing requirements for RAN WG5. Additionally, RAN2 defines protocol methodologies and specifies services provided by the EUTRA physical layer to upper layers, ensuring robust and efficient connectivity in evolving networks.", RAN, Radio Access Network
+TSG-RAN WG3, UTRAN/E-UTRAN/NG-RAN architecture and related network interfaces, RAN3, "responsible for the overall UTRAN/E-UTRAN/NG-RAN architecture and the specification of protocols for the related network interfaces.", RAN, Radio Access Network
+TSG-RAN WG4, Radio Performance and Protocol Aspects, RAN4, "responsible for the following aspects. The group works on the Radio Frequency (RF) aspects of UTRAN/E-UTRAN/NR. RAN4 performs simulations and derives the minimum requirements for transmission and reception parameters, Radio Resource Management (RRM), and for channel demodulation and Channel State Information (CSI) reporting.", RAN, Radio Access Network
+TSG-RAN WG5, Mobile Terminal Conformance Testing, RAN5, -, RAN, Radio Access Network
+TSG-RAN AH1, ITU-R Ad Hoc, AH1, -, RAN, Radio Access Network
+TSG-SA WG1, Services, SA1, -, SA, Service and System Aspects
+TSG-SA WG2, System architecture and services, SA2, -, SA, Service and System Aspects
+TSG-SA WG3, Security and Privacy, SA3, -, SA, Service and System Aspects
+TSG-SA WG4, Multimedia Codecs Systems and Services, SA4, -, SA, Service and System Aspects
+TSG-SA WG5, Management Orchestration and Charging, SA5, -, SA, Service and System Aspects
+TSG-SA WG6, Application Enablement and Critical Communication Applications, SA6, -, SA, Service and System Aspects
+TSG-CT WG1,User Equipment to Core Network protocols, CT1, -, CT, Core Network and Terminals
+TSG-CT WG3,Interworking with external networks and policy and charging Control, CT3, -, CT, Core Network and Terminalsclear
+TSG-CT WG4,Core network Protocols, CT4, -, CT, Core Network and Terminals
+TSG-CT WG6,Smart Card Application Aspects, CT6, -, CT, Core Network and Terminals
