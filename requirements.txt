@@ -1,0 +1,9 @@
+requests
+python-dotenv
+langchain
+langchain_openai
+openai
+matplotlib
+networkx
+docx
+docling
