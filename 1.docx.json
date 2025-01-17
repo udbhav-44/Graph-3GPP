@@ -1,91 +1,87 @@
 ```json
 {
-    "authors": [
-        {
-            "name": "IIT KANPUR",
-            "aliases": []
-        }
-    ],
-    "documents": [
-        {
-            "doc_id": "RP-242399",
-            "title": "Revised WID on Artificial Intelligence (AI)/Machine Learning (ML) for NR Air Interface",
-            "release": "RAN#105",
-            "type": "Discussion and Decision",
-            "tags": null,
-            "summary": "Discussion on additional study of AI/ML for CSI compression",
-            "topic": "AI/ML for NR air interface",
-            "keywords": ["AI", "ML", "NR air interface"],
-            "agenda_id": null,
-            "meeting_id": null,
-            "status": null,
-            "working_groups": []
-        },
-        {
-            "doc_id": "3GPP TR 38.843",
-            "title": "Study on Artificial Intelligence (AI)/Machine Learning (ML) for NR air interface (Release 18)",
-            "release": "V2.0.0",
-            "type": null,
-            "tags": null,
-            "summary": null,
-            "topic": "AI/ML for NR air interface",
-            "keywords": ["AI", "ML", "NR air interface"],
-            "agenda_id": null,
-            "meeting_id": null,
-            "status": null,
-            "working_groups": []
-        },
-        {
-            "doc_id": "R1-2403505",
-            "title": "Final summary of Additional study on AI/ML for NR air interface: CSI compression",
-            "release": null,
-            "type": null,
-            "tags": null,
-            "summary": null,
-            "topic": "AI/ML for NR air interface: CSI compression",
-            "keywords": ["AI", "ML", "NR air interface", "CSI compression"],
-            "agenda_id": null,
-            "meeting_id": null,
-            "status": null,
-            "working_groups": []
-        }
-    ],
-    "technology_entities": [],
-    "working_groups": [
-        {
-            "id": "TSG RAN WG1",
-            "name": "#118bis",
-            "description": null
-        }
-    ],
-    "meetings": [
-        {
-            "meeting_id": "RAN#105",
-            "venue": "Melbourne, Australia",
-            "date": "September 9-12, 2024",
-            "wg": "Qualcomm",
-            "topic": "AI/ML for NR air interface"
-        },
-        {
-            "meeting_id": "RAN#118",
-            "venue": "Maastricht, NL",
-            "date": "August 19th – 23th, 2024",
-            "wg": null,
-            "topic": null
-        }
-    ],
-    "agendas": [
-        {
-            "agenda_id": "9.1.4.1",
-            "meeting_id": "RAN#118bis",
-            "topic": "Discussion on additional study of AI/ML for CSI compression",
-            "description": null
-        }
-    ],
-    "mentions": [],
-    "authored": [],
-    "belongs_to": [],
-    "references": [],
-    "appears_in": []
+  "authors": [
+    {
+      "name": "IIT KANPUR",
+      "aliases": []
+    }
+  ],
+  "documents": [
+    {
+      "doc_id": "R1-2408952",
+      "title": "Discussion on additional study of AI/ML for CSI compression",
+      "release": "Release 19",
+      "type": "Contribution",
+      "tags": ["AI", "ML", "CSI compression"],
+      "summary": "This document discusses the additional study of AI/ML for CSI compression, including objectives, evaluation assumptions, and inter-vendor collaboration efforts. It presents agreements reached in previous meetings regarding the study of AI/ML for CSI compression, detailing evaluation methods and results from simulations. The document also outlines proposals for further study and collaboration between vendors to enhance the performance of AI/ML models in this context.",
+      "topic": "AI/ML for NR air interface",
+      "keywords": ["AI", "ML", "CSI", "compression"],
+      "agenda_id": "9.1.4.1",
+      "meeting_id": "RAN1#118",
+      "status": "Under discussion",
+      "working_groups": []
+    }
+  ],
+  "technology_entities": [],
+  "working_groups": [],
+  "meetings": [
+    {
+      "meeting_id": "RAN1#118",
+      "venue": "Hefei, China",
+      "wg": "RAN WG1",
+      "topic": "Discussion on additional study of AI/ML for CSI compression"
+    }
+  ],
+  "agendas": [
+    {
+      "agenda_id": "9.1.4.1",
+      "meeting_id": "RAN1#118",
+      "topic": "Discussion on additional study of AI/ML for CSI compression",
+      "description": "Discussion and Decision on AI/ML for CSI compression"
+    }
+  ],
+  "mentions": [],
+  "authored": [
+    {
+      "doc_id": "R1-2408952",
+      "contributor_name": "IIT KANPUR",
+      "contribution_type": "Author"
+    }
+  ],
+  "belongs_to": [],
+  "references": [
+    {
+      "cited_doc_id": "RP-242399",
+      "type_of_reference": "Citation",
+      "details": "Revised WID on Artificial Intelligence (AI)/Machine Learning (ML) for NR Air Interface, Qualcomm, RAN#105, Melbourne, Australia, September 9-12, 2024."
+    },
+    {
+      "cited_doc_id": "3GPP TR 38.843",
+      "type_of_reference": "Citation",
+      "details": "Study on Artificial Intelligence (AI)/Machine Learning (ML) for NR air interface (Release 18), V2.0.0 (2023-12)."
+    },
+    {
+      "cited_doc_id": "R1-2403505",
+      "type_of_reference": "Citation",
+      "details": "Final summary of Additional study on AI/ML for NR air interface: CSI compression, Moderator (Qualcomm), 3GPP TSG RAN WG1 #116-bis, Changsha, China, April 15th – April 19th, 2024."
+    },
+    {
+      "cited_doc_id": "Chair’s Notes RAN1#118",
+      "type_of_reference": "Citation",
+      "details": "Chair’s Notes RAN1#118, Maastricht, NL, August 19th – 23th, 2024."
+    },
+    {
+      "cited_doc_id": "Chairman's Notes RAN1#117",
+      "type_of_reference": "Citation",
+      "details": "Chairman's Notes RAN1#117, Fukuoka City, Fukuoka, Japan, May 20th – 24th, 2024."
+    }
+  ],
+  "appears_in": [
+    {
+      "agenda_id": "9.1.4.1",
+      "page_range": null,
+      "doc_id": "R1-2408952"
+    }
+  ]
 }
 ```

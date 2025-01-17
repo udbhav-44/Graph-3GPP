@@ -6,6 +6,8 @@ from typing import List, Optional
 from pathlib import Path
 # from turtle import title
 import sys
+from xmlrpc.client import DateTime
+from time import time
 
 import requests
 from dotenv import load_dotenv
@@ -20,88 +22,123 @@ from pydantic import BaseModel
 from typing import List, Optional
 
 # Node Models
-class Author(BaseModel):
+class Contributor(BaseModel):
+    '''
+    This class represents the contributor of the document
+    '''
     name: str = Field(description="")
     aliases: List[str] = Field(description="")
 
 class Document(BaseModel):
-    doc_id: str = Field(description="")
-    title: str = Field(description="")
-    release: str = Field(description="")
-    type: Optional[str] = Field(description="")
-    tags: Optional[List[str]] = Field(description="")
-    summary: str = Field(description="")
+    '''
+    This class  is used to extract data specific to the document
+    '''
+    doc_id: str = Field(description="Unique Id of the 3GPP document")
+    title: str = Field(description="Title of the document")
+    release: str = Field(description="Release the document belongs to ")
+    type: Optional[str] = Field(description="The type of document (e.g. specification, report, etc.)")
+    tags: Optional[List[str]] = Field(description="Any other specific tags associated with the document")
+    summary: str = Field(description="Detailed summary of the entire document in not less than 200 words")
     topic: Optional[str] = Field(description="")
-    keywords: List[str] = Field(description="")
-    agenda_id: Optional[str] = Field(description="")
-    meeting_id: Optional[str] = Field(description="")
-    status: Optional[str] = Field(description="")
-    agenda_id: Optional[str] = Field(description="")
+    keywords: List[str] = Field(description="Keywords associated with the document")
+    agenda_id: Optional[str] = Field(description="Agenda No. of the document")
+    meeting_id: Optional[str] = Field(description="Unique Id of the meeting the document belongs to")
+    status: Optional[str] = Field(description="The status of the document (e.g. approved, under review, etc.)")
     working_groups: List[str] = [] # Reference to WorkingGroup 
 
 class TechnologyEntity(BaseModel):
-    canonical_name: str = Field(description="")
-    aliases: List[str] = Field(description="")
-    description: Optional[str] = Field(description="")
+    '''
+    This class is used to extract data specific to the technologies or entities mentioned in the document
+    '''
+    canonical_name: str = Field(description="Name of the technology/entity")
+    aliases: List[str] = Field(description="Short-form or other names of the technology/entity")
+    description: Optional[str] = Field(description="Explanation of the concept or technology")
 
 class WorkingGroup(BaseModel):
-    id: str = Field(description="")
-    name: str = Field(description="")
-    description: Optional[str] = Field(description="")
+    '''
+    This class is used to extract the details of the working group(s) the document belongs to
+    '''
+    id: str = Field(description="Working group id")
+    name: str = Field(description="Name of the working group")
+    description: Optional[str] = Field(description=" Description of the working group")
 
 class Meeting(BaseModel):
-    meeting_id: str = Field(description="")
-    venue: str = Field(description="")
-    date: str = Field(description="")
-    wg: str = Field(description="")  # Reference to Working Group
-    topic: Optional[str] = Field(description="")
+    '''
+    This class is used to extract data of the meeting the document belongs to
+    '''
+    meeting_id: str = Field(description="Unique Id of the meeting")
+    venue: str = Field(description="Venue of the meeting")
+    # date: DateTime = Field(description="Date of the meeting")
+    wg: str = Field(description="Working group ID")  # Reference to Working Group
+    topic: Optional[str] = Field(description="Topic of the meeting")
 
 class Agenda(BaseModel):
-    agenda_id: str = Field(description="")
-    meeting_id: str = Field(description="")
-    topic: Optional[str] = Field(description="")
-    description: Optional[str] = Field(description="")
+    '''
+    This class is used to extract data of the agenda the document belongs to
+    '''
+    agenda_id: str = Field(description="Agenda Number ")
+    meeting_id: str = Field(description="Meeting ID of the document where the agenda is discussed")
+    topic: Optional[str] = Field(description="Topic of the agenda")
+    description: Optional[str] = Field(description="Description of the agenda")
 
 # Edge Models
 class Mentions(BaseModel):
-    doc_id: str = Field(description="")
-    entity_name: str  = Field(description="") # Reference to TechnologyEntity
-    context: Optional[str] = Field(description="")
-    frequency : Optional[int] = Field(description="")
+    '''
+    This class is used to extract the links of technology-entity mentioned in the document
+    '''
+    doc_id: str = Field(description="Uniquie Id of the document")
+    entity_name: str  = Field(description="Name of the technology/entity") # Reference to TechnologyEntity
+    context: Optional[str] = Field(description="Context in which the entity is mentioned")
+    frequency : Optional[int] = Field(description="How frequently the entity is mentioned in the document")
 
 class Authored(BaseModel):
-    doc_id: str = Field(description="")
-    author_name: str = Field(description="") # Reference to Author
-    contribution_type: Optional[str] = Field(description="")
+    '''
+    This class is used to extract to the author details of the document
+    '''
+    doc_id: str = Field(description="Unique Id of the document")
+    contributor_name: str = Field(description="Name of the Contributor") # Reference to Author
+    contribution_type: Optional[str] = Field(description="Type of the contribution made")
 
 class BelongsTo(BaseModel):
-    doc_id: str = Field(description="")
-    wg_name: str = Field(description="") # Reference to WorkingGroup
-    role_in_group: Optional[str] = Field(description="") # Role of the document in the working group
+    '''
+    This class is used to extract data of the working group the document belongs to
+    '''
+    doc_id: str = Field(description="Unique Id of the document")
+    wg_name: str = Field(description="Working group this document belongs to") # Reference to WorkingGroup
+    role_in_group: Optional[str] = Field(description="ROle of the document in the working group") # Role of the document in the working group
 
 class References(BaseModel):
-    source_doc_id: str = Field(description="")
-    target_doc_id: str = Field(description="")
-    type_of_reference: Optional[str]  = Field(description="")# Type of reference (e.g. citation, appendix, related work, etc.)
-
+    '''
+    This class is used to extract the citation details for the document 
+    '''
+    # source_doc_id: str = Field(description="Unique ID of the source Document")
+    cited_doc_id: str = Field(description="Unique ID of the cited Document")
+    type_of_reference: Optional[str]  = Field(description="Type of reference (e.g. Citation, appendix, related work)")# Type of reference (e.g. citation, appendix, related work, etc.)
+    details : str = Field(description="Details of the reference in about 20 words") # Details of the reference
 class AppearsIn(BaseModel):
-    agenda_id: str = Field(description="")
-    page_range: Optional[str] = Field(description="")
-    doc_id: str = Field(description="")
+    '''
+    This class is used to link the agenda to the document
+    '''
+    agenda_id: str = Field(description="Agenda No of the document")
+    page_range: Optional[str] = Field(description="Pages where the specific agenda is discussed")
+    doc_id: str = Field(description="Unique Id of the document")
 
 # Main Data Model
 class DataModel(BaseModel):
-    authors: List[Author] = Field(description="")
-    documents: List[Document] = Field(description="")
-    technology_entities: List[TechnologyEntity] = Field(description="")
-    working_groups: List[WorkingGroup] = Field(description="")
-    meetings: List[Meeting] = Field(description="")
-    agendas: List[Agenda] = Field(description="")
-    mentions: List[Mentions] = Field(description="")
-    authored: List[Authored] = Field(description="")
-    belongs_to: List[BelongsTo] = Field(description="")
-    references: List[References] = Field(description="")
-    appears_in: List[AppearsIn] = Field(description="")
+    '''
+    This class represents the final data model architecture
+    '''
+    authors: List[Contributor] = Field(description="Details about the contributors of the document")
+    documents: List[Document] = Field(description="Details about the document")
+    technology_entities: List[TechnologyEntity] = Field(description="Details of the technologies or entities mentioned in the document")
+    working_groups: List[WorkingGroup] = Field(description="Details of the working group(s) the document belongs to")
+    meetings: List[Meeting] = Field(description="Details of the meeting the document belongs to")
+    agendas: List[Agenda] = Field(description="Details of the agenda the document belongs to")
+    mentions: List[Mentions] = Field(description="Links of technology-entity mentioned in the document")
+    authored: List[Authored] = Field(description="Links of authors to the document")
+    belongs_to: List[BelongsTo] = Field(description="Links of the document/entity to the working group")
+    references: List[References] = Field(description="Citation details for the document")
+    appears_in: List[AppearsIn] = Field(description="Links of the agenda to the document")
 
 def load_document(file_path: str):
     converter = DocumentConverter()
@@ -182,24 +219,16 @@ def extract_values_from_file(raw_file_data):
     system_message_prompt = SystemMessagePromptTemplate.from_template(system_template)
     human_template = """{format_instructions}
                         {raw_file_data}
-                        Please extract the following data:
-                        - Authors: Name, aliases
-                        - Documents: doc_id, title, release, type, tags, summary, keywords, etc.
-                        - Technology Entities
-                        - Working Groups
-                        - Meetings
-                        - Agendas
-                        - Mentions
-                        - Authored (Author details)
-                        - BelongsTo (Working Group details)
-                        - References
-                        - AppearsIn (Agenda details)
+                        \n
                         {postamble}
                         """
     human_message_prompt = HumanMessagePromptTemplate.from_template(human_template)
 
     parser = PydanticOutputParser(pydantic_object=DataModel)
-    print(parser.get_format_instructions())
+    # print(parser.get_format_instructions())
+    format_instructions = parser.get_format_instructions()
+    
+    
 
     # compile chat template
     chat_prompt = ChatPromptTemplate.from_messages([system_message_prompt, human_message_prompt])
@@ -207,9 +236,9 @@ def extract_values_from_file(raw_file_data):
                                         format_instructions=parser.get_format_instructions(),
                                         raw_file_data=raw_file_data,
                                         postamble=postamble).to_messages()
-    model = ChatOpenAI()
+    model = ChatOpenAI(model="gpt-4o-mini", temperature=1, model_kwargs={"top_p": 0.4})
     print("Querying model...")
-    result = model(request, temperature=0)
+    result = model(request)
     print("Response from model:")
     print(result.content)
     return result.content
@@ -226,6 +255,7 @@ def process_pdf_files(file_list):
 
 
 def main():
+    start = time()
     load_dotenv()
     os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
     if len(sys.argv) < 2:
@@ -236,7 +266,7 @@ def main():
     print(f"Processing {len(file_list)} files...")
     print(f"Processing first file: {file_list[0]}...")
     process_pdf_files(file_list)
-
+    print(f"Processing took {time() - start} seconds.")
 
 if __name__ == '__main__':
     main()
