@@ -2,4 +2,6 @@
 structured-extraction/
 info/
 .vscode/
+DataModel/__pycache__
+travel_dataset
 

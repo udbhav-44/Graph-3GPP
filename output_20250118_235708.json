@@ -1,0 +1,204 @@
+{
+    "data": {
+        "datamodel": {
+            "authors": [
+                {
+                    "name": "IIT KANPUR",
+                    "aliases": []
+                }
+            ],
+            "documents": [
+                {
+                    "doc_id": "R1-2408952",
+                    "title": "Discussion on additional study of AI/ML for CSI compression",
+                    "release": "Release 19",
+                    "type": "Discussion and Decision",
+                    "tags": [],
+                    "summary": "This document discusses the ongoing study of AI/ML for CSI compression, building on previous agreements from RAN meetings. It outlines objectives for enhancing CSI feedback, including improving performance and complexity trade-offs, and addressing inter-vendor training collaboration issues. The document details evaluation assumptions for temporal domain aspects of AI/ML-based CSI compression, including categorization for study and baseline options for UE distribution. It presents agreements on evaluation methods, including CSI-RS configuration and reporting periodicity. The document also discusses the use of a Transformer architecture for compressing SVD-based precoder inputs and presents results from various cases, highlighting performance gains and parameter efficiency. Additionally, it addresses inter-vendor collaboration options, proposing standardized signaling for parameter and dataset exchanges to alleviate complexities. The conclusions summarize observations and proposals for prioritizing specific options and directions for further study.",
+                    "topic": "AI/ML for CSI compression",
+                    "keywords": [
+                        "AI",
+                        "ML",
+                        "CSI compression",
+                        "RAN",
+                        "inter-vendor collaboration"
+                    ],
+                    "agenda_id": "9.1.4.1",
+                    "meeting_id": "RAN1#118",
+                    "status": "under review",
+                    "working_groups": [
+                        "RAN1"
+                    ]
+                }
+            ],
+            "technology_entities": [],
+            "working_groups": [
+                {
+                    "id": "RAN1",
+                    "name": "RAN Working Group 1",
+                    "description": "Working group focused on radio access network specifications and studies."
+                }
+            ],
+            "meetings": [
+                {
+                    "meeting_id": "RAN1#118",
+                    "venue": "Hefei, China",
+                    "wg": "RAN1",
+                    "topic": "Discussion on additional study of AI/ML for CSI compression"
+                }
+            ],
+            "agendas": [
+                {
+                    "agenda_id": "9.1.4.1",
+                    "meeting_id": "RAN1#118",
+                    "topic": "Discussion on additional study of AI/ML for CSI compression",
+                    "description": "Discussion on the ongoing study of AI/ML for CSI compression and its implications for future releases."
+                }
+            ],
+            "mentions": [],
+            "authored": [
+                {
+                    "doc_id": "R1-2408952",
+                    "contributor_name": "IIT KANPUR",
+                    "contribution_type": "author"
+                }
+            ],
+            "belongs_to": [
+                {
+                    "doc_id": "R1-2408952",
+                    "wg_name": "RAN1",
+                    "role_in_group": "contributor"
+                }
+            ],
+            "references": [
+                {
+                    "cited_doc_id": "RP-242399",
+                    "type_of_reference": "Citation",
+                    "details": "Revised WID on Artificial Intelligence (AI)/Machine Learning (ML) for NR Air Interface, Qualcomm, RAN#105, Melbourne, Australia, September 9-12, 2024."
+                },
+                {
+                    "cited_doc_id": "3GPP TR 38.843",
+                    "type_of_reference": "Citation",
+                    "details": "Study on Artificial Intelligence (AI)/Machine Learning (ML) for NR air interface (Release 18), V2.0.0 (2023-12)."
+                },
+                {
+                    "cited_doc_id": "R1-2403505",
+                    "type_of_reference": "Citation",
+                    "details": "Final summary of Additional study on AI/ML for NR air interface: CSI compression, Moderator (Qualcomm), 3GPP TSG RAN WG1 #116-bis, Changsha, China, April 15th \u2013 April 19th, 2024."
+                },
+                {
+                    "cited_doc_id": "Chair\u2019s Notes RAN1#118",
+                    "type_of_reference": "Citation",
+                    "details": "Chair's Notes RAN1#118, Maastricht, NL, August 19th \u2013 23th, 2024."
+                },
+                {
+                    "cited_doc_id": "Chairman's Notes RAN1#117",
+                    "type_of_reference": "Citation",
+                    "details": "Chairman's Notes RAN1#117, Fukuoka City, Fukuoka, Japan, May 20th \u2013 24th, 2024."
+                }
+            ],
+            "appears_in": []
+        }
+    },
+    "raw": "<json>{\n  \"datamodel\": {\n    \"authors\": [\n      {\n        \"name\": \"IIT KANPUR\",\n        \"aliases\": []\n      }\n    ],\n    \"documents\": [\n      {\n        \"doc_id\": \"R1-2408952\",\n        \"title\": \"Discussion on additional study of AI/ML for CSI compression\",\n        \"release\": \"Release 19\",\n        \"type\": \"Discussion and Decision\",\n        \"tags\": [],\n        \"summary\": \"This document discusses the ongoing study of AI/ML for CSI compression, building on previous agreements from RAN meetings. It outlines objectives for enhancing CSI feedback, including improving performance and complexity trade-offs, and addressing inter-vendor training collaboration issues. The document details evaluation assumptions for temporal domain aspects of AI/ML-based CSI compression, including categorization for study and baseline options for UE distribution. It presents agreements on evaluation methods, including CSI-RS configuration and reporting periodicity. The document also discusses the use of a Transformer architecture for compressing SVD-based precoder inputs and presents results from various cases, highlighting performance gains and parameter efficiency. Additionally, it addresses inter-vendor collaboration options, proposing standardized signaling for parameter and dataset exchanges to alleviate complexities. The conclusions summarize observations and proposals for prioritizing specific options and directions for further study.\",\n        \"topic\": \"AI/ML for CSI compression\",\n        \"keywords\": [\n          \"AI\",\n          \"ML\",\n          \"CSI compression\",\n          \"RAN\",\n          \"inter-vendor collaboration\"\n        ],\n        \"agenda_id\": \"9.1.4.1\",\n        \"meeting_id\": \"RAN1#118\",\n        \"status\": \"under review\",\n        \"working_groups\": [\n          \"RAN1\"\n        ]\n      }\n    ],\n    \"technology_entities\": [],\n    \"working_groups\": [\n      {\n        \"id\": \"RAN1\",\n        \"name\": \"RAN Working Group 1\",\n        \"description\": \"Working group focused on radio access network specifications and studies.\"\n      }\n    ],\n    \"meetings\": [\n      {\n        \"meeting_id\": \"RAN1#118\",\n        \"venue\": \"Hefei, China\",\n        \"wg\": \"RAN1\",\n        \"topic\": \"Discussion on additional study of AI/ML for CSI compression\"\n      }\n    ],\n    \"agendas\": [\n      {\n        \"agenda_id\": \"9.1.4.1\",\n        \"meeting_id\": \"RAN1#118\",\n        \"topic\": \"Discussion on additional study of AI/ML for CSI compression\",\n        \"description\": \"Discussion on the ongoing study of AI/ML for CSI compression and its implications for future releases.\"\n      }\n    ],\n    \"mentions\": [],\n    \"authored\": [\n      {\n        \"doc_id\": \"R1-2408952\",\n        \"contributor_name\": \"IIT KANPUR\",\n        \"contribution_type\": \"author\"\n      }\n    ],\n    \"belongs_to\": [\n      {\n        \"doc_id\": \"R1-2408952\",\n        \"wg_name\": \"RAN1\",\n        \"role_in_group\": \"contributor\"\n      }\n    ],\n    \"references\": [\n      {\n        \"cited_doc_id\": \"RP-242399\",\n        \"type_of_reference\": \"Citation\",\n        \"details\": \"Revised WID on Artificial Intelligence (AI)/Machine Learning (ML) for NR Air Interface, Qualcomm, RAN#105, Melbourne, Australia, September 9-12, 2024.\"\n      },\n      {\n        \"cited_doc_id\": \"3GPP TR 38.843\",\n        \"type_of_reference\": \"Citation\",\n        \"details\": \"Study on Artificial Intelligence (AI)/Machine Learning (ML) for NR air interface (Release 18), V2.0.0 (2023-12).\"\n      },\n      {\n        \"cited_doc_id\": \"R1-2403505\",\n        \"type_of_reference\": \"Citation\",\n        \"details\": \"Final summary of Additional study on AI/ML for NR air interface: CSI compression, Moderator (Qualcomm), 3GPP TSG RAN WG1 #116-bis, Changsha, China, April 15th \u2013 April 19th, 2024.\"\n      },\n      {\n        \"cited_doc_id\": \"Chair\u2019s Notes RAN1#118\",\n        \"type_of_reference\": \"Citation\",\n        \"details\": \"Chair's Notes RAN1#118, Maastricht, NL, August 19th \u2013 23th, 2024.\"\n      },\n      {\n        \"cited_doc_id\": \"Chairman's Notes RAN1#117\",\n        \"type_of_reference\": \"Citation\",\n        \"details\": \"Chairman's Notes RAN1#117, Fukuoka City, Fukuoka, Japan, May 20th \u2013 24th, 2024.\"\n      }\n    ],\n    \"appears_in\": []\n  }\n}</json>",
+    "errors": [],
+    "validated_data": {
+        "authors": [
+            {
+                "name": "IIT KANPUR",
+                "aliases": []
+            }
+        ],
+        "documents": [
+            {
+                "doc_id": "R1-2408952",
+                "title": "Discussion on additional study of AI/ML for CSI compression",
+                "release": "Release 19",
+                "type": "Discussion and Decision",
+                "tags": [],
+                "summary": "This document discusses the ongoing study of AI/ML for CSI compression, building on previous agreements from RAN meetings. It outlines objectives for enhancing CSI feedback, including improving performance and complexity trade-offs, and addressing inter-vendor training collaboration issues. The document details evaluation assumptions for temporal domain aspects of AI/ML-based CSI compression, including categorization for study and baseline options for UE distribution. It presents agreements on evaluation methods, including CSI-RS configuration and reporting periodicity. The document also discusses the use of a Transformer architecture for compressing SVD-based precoder inputs and presents results from various cases, highlighting performance gains and parameter efficiency. Additionally, it addresses inter-vendor collaboration options, proposing standardized signaling for parameter and dataset exchanges to alleviate complexities. The conclusions summarize observations and proposals for prioritizing specific options and directions for further study.",
+                "topic": "AI/ML for CSI compression",
+                "keywords": [
+                    "AI",
+                    "ML",
+                    "CSI compression",
+                    "RAN",
+                    "inter-vendor collaboration"
+                ],
+                "agenda_id": "9.1.4.1",
+                "meeting_id": "RAN1#118",
+                "status": "under review",
+                "working_groups": [
+                    "RAN1"
+                ]
+            }
+        ],
+        "technology_entities": [],
+        "working_groups": [
+            {
+                "id": "RAN1",
+                "name": "RAN Working Group 1",
+                "description": "Working group focused on radio access network specifications and studies."
+            }
+        ],
+        "meetings": [
+            {
+                "meeting_id": "RAN1#118",
+                "venue": "Hefei, China",
+                "wg": "RAN1",
+                "topic": "Discussion on additional study of AI/ML for CSI compression"
+            }
+        ],
+        "agendas": [
+            {
+                "agenda_id": "9.1.4.1",
+                "meeting_id": "RAN1#118",
+                "topic": "Discussion on additional study of AI/ML for CSI compression",
+                "description": "Discussion on the ongoing study of AI/ML for CSI compression and its implications for future releases."
+            }
+        ],
+        "mentions": [],
+        "authored": [
+            {
+                "doc_id": "R1-2408952",
+                "contributor_name": "IIT KANPUR",
+                "contribution_type": "author"
+            }
+        ],
+        "belongs_to": [
+            {
+                "doc_id": "R1-2408952",
+                "wg_name": "RAN1",
+                "role_in_group": "contributor"
+            }
+        ],
+        "references": [
+            {
+                "cited_doc_id": "RP-242399",
+                "type_of_reference": "Citation",
+                "details": "Revised WID on Artificial Intelligence (AI)/Machine Learning (ML) for NR Air Interface, Qualcomm, RAN#105, Melbourne, Australia, September 9-12, 2024."
+            },
+            {
+                "cited_doc_id": "3GPP TR 38.843",
+                "type_of_reference": "Citation",
+                "details": "Study on Artificial Intelligence (AI)/Machine Learning (ML) for NR air interface (Release 18), V2.0.0 (2023-12)."
+            },
+            {
+                "cited_doc_id": "R1-2403505",
+                "type_of_reference": "Citation",
+                "details": "Final summary of Additional study on AI/ML for NR air interface: CSI compression, Moderator (Qualcomm), 3GPP TSG RAN WG1 #116-bis, Changsha, China, April 15th \u2013 April 19th, 2024."
+            },
+            {
+                "cited_doc_id": "Chair\u2019s Notes RAN1#118",
+                "type_of_reference": "Citation",
+                "details": "Chair's Notes RAN1#118, Maastricht, NL, August 19th \u2013 23th, 2024."
+            },
+            {
+                "cited_doc_id": "Chairman's Notes RAN1#117",
+                "type_of_reference": "Citation",
+                "details": "Chairman's Notes RAN1#117, Fukuoka City, Fukuoka, Japan, May 20th \u2013 24th, 2024."
+            }
+        ],
+        "appears_in": []
+    }
+}
