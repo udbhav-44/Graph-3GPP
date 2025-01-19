@@ -1,0 +1,38 @@
+2025-01-19 06:12:38,789 - INFO - Processing path source_docs...
+2025-01-19 06:12:38,790 - INFO - Found 3 files.
+2025-01-19 06:12:38,790 - INFO - Using 3 worker processes.
+2025-01-19 06:12:52,392 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-19 06:12:52,409 - INFO - JSON data for source_docs/3.docx saved to output/3_20250119_061252.json
+2025-01-19 06:12:53,092 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-19 06:12:53,109 - INFO - JSON data for source_docs/2.docx saved to output/2_20250119_061253.json
+2025-01-19 06:12:58,433 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-19 06:12:58,448 - INFO - JSON data for source_docs/1.docx saved to output/1_20250119_061258.json
+2025-01-19 06:12:59,451 - INFO - CPU Usage: 6.2% | Memory Usage: 22.3% | Disk Usage: 9.5%
+2025-01-19 06:12:59,451 - INFO - Batch processed in 0.00 seconds.
+2025-01-19 06:12:59,480 - INFO - Processing completed in 20.69 seconds.
+2025-01-19 06:27:34,221 - INFO - Processing path source_docs...
+2025-01-19 06:27:34,221 - INFO - Found 3 files.
+2025-01-19 06:27:34,221 - INFO - Using 3 worker processes.
+2025-01-19 06:27:46,908 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-19 06:27:46,927 - INFO - JSON data for source_docs/2.docx saved to output/2_20250119_062746.json
+2025-01-19 06:27:54,053 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-19 06:27:54,071 - INFO - JSON data for source_docs/1.docx saved to output/1_20250119_062754.json
+2025-01-19 06:28:35,829 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 520 "
+2025-01-19 06:28:35,831 - INFO - Retrying request to /chat/completions in 0.405694 seconds
+2025-01-19 06:28:59,899 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-19 06:28:59,918 - INFO - JSON data for source_docs/3.docx saved to output/3_20250119_062859.json
+2025-01-19 06:29:00,922 - INFO - CPU Usage: 9.3% | Memory Usage: 22.4% | Disk Usage: 9.5%
+2025-01-19 06:29:00,922 - INFO - Batch processed in 0.00 seconds.
+2025-01-19 06:29:00,955 - INFO - Processing completed in 86.73 seconds.
+2025-01-19 06:30:34,505 - INFO - Processing path source_docs...
+2025-01-19 06:30:34,506 - INFO - Found 3 files.
+2025-01-19 06:30:34,506 - INFO - Using 3 worker processes.
+2025-01-19 06:30:44,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-19 06:30:44,088 - INFO - JSON data for source_docs/2.docx saved to output/2_20250119_063044.json
+2025-01-19 06:30:44,736 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-19 06:30:44,753 - INFO - JSON data for source_docs/3.docx saved to output/3_20250119_063044.json
+2025-01-19 06:30:50,400 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-19 06:30:50,417 - INFO - JSON data for source_docs/1.docx saved to output/1_20250119_063050.json
+2025-01-19 06:30:51,420 - INFO - CPU Usage: 7.2% | Memory Usage: 22.5% | Disk Usage: 9.5%
+2025-01-19 06:30:51,420 - INFO - Batch processed in 0.00 seconds.
+2025-01-19 06:30:51,450 - INFO - Processing completed in 16.95 seconds.

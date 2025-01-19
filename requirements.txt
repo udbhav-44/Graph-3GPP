@@ -7,3 +7,5 @@ matplotlib
 networkx
 docx
 docling
+kor
+tqdm
