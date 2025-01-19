@@ -10,29 +10,38 @@ def error_exit(error_message):
     print(error_message)
     sys.exit(1)
 
-def generate_cache_file_name(file_path):
-    # For our use case, PDFs won't be less than 4096, practically speaking.
+def generate_cache_file_name(file_path: str, cache_dir: str = "cache"):
+    """Generates a cache file name based on the first and last 4096 bytes of the file."""
+    
+    # Check if file is too small to process
     if os.path.getsize(file_path) < 4096:
-        error_exit("File too small to process.")
+        error_exit(f"File {file_path} too small to process.")  # Ensure error_exit is defined in utils
+
+    # Read the first and last 4096 bytes
     with open(file_path, "rb") as f:
         first_block = f.read(4096)
         # seek to the last block
         f.seek(-4096, os.SEEK_END)
-        f.read(4096)
         last_block = f.read(4096)
 
+    # Generate MD5 hashes for the first and last blocks
     first_md5_hash = hashlib.md5(first_block).hexdigest()
     last_md5_hash = hashlib.md5(last_block).hexdigest()
-    return f"/tmp/{first_md5_hash}_{last_md5_hash}.txt"
+
+    # Ensure the cache directory exists
+    os.makedirs(cache_dir, exist_ok=True)
+
+    # Return the full path to the cache file
+    return os.path.join(cache_dir, f"{first_md5_hash}_{last_md5_hash}.txt")
 
 
-def is_file_cached(file_path):
-    cache_file_name = generate_cache_file_name(file_path)
-    cache_file = Path(cache_file_name)
-    if cache_file.is_file():
-        return True
-    else:
-        return False
+def is_file_cached(file_path: str, cache_dir: str = "cache") -> bool:
+    """Checks if a file is already cached."""
+    # Generate the cache file path
+    cache_file_name = generate_cache_file_name(file_path, cache_dir)
+    
+    # Check if the cache file exists
+    return Path(cache_file_name).is_file()
       
     
 

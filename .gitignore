@@ -5,3 +5,5 @@ info/
 DataModel/__pycache__
 travel_dataset
 output/
+cache/
+utils/__pycache__/

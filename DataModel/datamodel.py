@@ -7,8 +7,8 @@ class Contributor(BaseModel):
     '''
     This class represents the contributor of the document
     '''
-    name: str = Field(description="")
-    aliases: List[str] = Field(description="")
+    name: str = Field(description="Name of the Organization(Full name) or Individual providing the document")
+    aliases: List[str] = Field(description="Any other names or short-forms of the contributor")
 
 class Document(BaseModel):
     '''
@@ -31,9 +31,9 @@ class TechnologyEntity(BaseModel):
     '''
     This class is used to extract data specific to the technologies or entities mentioned in the document
     '''
-    canonical_name: str = Field(description="Name of the technology/entity")
-    aliases: List[str] = Field(description="Short-form or other names of the technology/entity")
-    description: Optional[str] = Field(description="Explanation of the concept or technology")
+    canonical_name: str = Field(description="The full, formal name of the technology or entity or concept or theory. This is the primary reference name used in technical or academic contexts. Example: Long Term Evolution (LTE)")
+    aliases: List[str] = Field(description="A list of alternative names or abbreviations for the technology/entity, including common aliases, short forms, or informal names. Example: LTE")
+    description: Optional[str] = Field(description="A brief explanation or summary of the technology/entity, describing its key characteristics, uses, and significance in the field. This should be clear and concise, providing enough context for someone unfamiliar with the topic. Example: LTE is a standard for wireless broadband communication that offers higher data rates and lower latency than previous technologies.")
 
 class WorkingGroup(BaseModel):
     '''
