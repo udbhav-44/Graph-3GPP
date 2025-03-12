@@ -1,0 +1,102 @@
+2025-03-12 18:38:29,455 - file_processor - INFO - Starting file processing.
+2025-03-12 18:38:29,455 - file_processor - INFO - Listing files in directory: source_docs
+2025-03-12 18:38:29,593 - file_processor - INFO - Loading document: source_docs/3.docx
+2025-03-12 18:39:20,508 - file_processor - INFO - Exporting JSON to: output/3.json
+2025-03-12 18:39:20,509 - file_processor - INFO - Loading document: source_docs/1.docx
+2025-03-12 18:39:54,515 - file_processor - INFO - Exporting JSON to: output/1.json
+2025-03-12 18:39:54,515 - file_processor - INFO - Loading document: source_docs/agenda.docx
+2025-03-12 18:40:36,258 - file_processor - ERROR - Error processing file source_docs/agenda.docx: 'str' object has no attribute 'model_dump_json'
+Traceback (most recent call last):
+  File "/git_folder/udbhav/code/Graph-3GPP/main2.py", line 66, in process_file
+    response = sllm.complete(data)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/instrumentation/dispatcher.py", line 322, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/callbacks.py", line 431, in wrapped_llm_predict
+    f_return_val = f(_self, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/structured_llm.py", line 107, in complete
+    return complete_fn(prompt, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/base/llms/generic_utils.py", line 173, in wrapper
+    chat_response = func(messages, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/instrumentation/dispatcher.py", line 322, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/callbacks.py", line 173, in wrapped_llm_chat
+    f_return_val = f(_self, messages, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/structured_llm.py", line 80, in chat
+    role=MessageRole.ASSISTANT, content=output.model_dump_json()
+                                        ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'model_dump_json'
+2025-03-12 18:40:36,261 - file_processor - INFO - Loading document: source_docs/2.docx
+2025-03-12 18:41:17,184 - file_processor - INFO - Exporting JSON to: output/2.json
+2025-03-12 18:41:17,247 - file_processor - INFO - Time taken: 167.79198598861694 seconds.
+2025-03-12 18:41:17,247 - file_processor - INFO - File processing completed.
+2025-03-12 19:55:16,245 - file_processor - INFO - Starting file processing.
+2025-03-12 19:55:16,246 - file_processor - INFO - Listing files in directory: source_docs
+2025-03-12 19:55:16,417 - file_processor - INFO - Loading document: source_docs/3.docx
+2025-03-12 19:55:42,604 - file_processor - INFO - Exporting JSON to: output/3.json
+2025-03-12 19:55:42,604 - file_processor - INFO - Loading document: source_docs/1.docx
+2025-03-12 19:56:01,783 - file_processor - ERROR - Error processing file source_docs/1.docx: 'str' object has no attribute 'model_dump_json'
+Traceback (most recent call last):
+  File "/git_folder/udbhav/code/Graph-3GPP/main2.py", line 66, in process_file
+    response = sllm.complete(data)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/instrumentation/dispatcher.py", line 322, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/callbacks.py", line 431, in wrapped_llm_predict
+    f_return_val = f(_self, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/structured_llm.py", line 107, in complete
+    return complete_fn(prompt, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/base/llms/generic_utils.py", line 173, in wrapper
+    chat_response = func(messages, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/instrumentation/dispatcher.py", line 322, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/callbacks.py", line 173, in wrapped_llm_chat
+    f_return_val = f(_self, messages, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/structured_llm.py", line 80, in chat
+    role=MessageRole.ASSISTANT, content=output.model_dump_json()
+                                        ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'model_dump_json'
+2025-03-12 19:56:01,786 - file_processor - INFO - Loading document: source_docs/agenda.docx
+2025-03-12 19:56:28,302 - file_processor - ERROR - Error processing file source_docs/agenda.docx: 'str' object has no attribute 'model_dump_json'
+Traceback (most recent call last):
+  File "/git_folder/udbhav/code/Graph-3GPP/main2.py", line 66, in process_file
+    response = sllm.complete(data)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/instrumentation/dispatcher.py", line 322, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/callbacks.py", line 431, in wrapped_llm_predict
+    f_return_val = f(_self, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/structured_llm.py", line 107, in complete
+    return complete_fn(prompt, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/base/llms/generic_utils.py", line 173, in wrapper
+    chat_response = func(messages, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/instrumentation/dispatcher.py", line 322, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/callbacks.py", line 173, in wrapped_llm_chat
+    f_return_val = f(_self, messages, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/git_folder/udbhav/code/Graph-3GPP/graph/lib/python3.12/site-packages/llama_index/core/llms/structured_llm.py", line 80, in chat
+    role=MessageRole.ASSISTANT, content=output.model_dump_json()
+                                        ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'model_dump_json'
+2025-03-12 19:56:28,305 - file_processor - INFO - Loading document: source_docs/2.docx
+2025-03-12 19:56:48,720 - file_processor - INFO - Exporting JSON to: output/2.json
+2025-03-12 19:56:48,786 - file_processor - INFO - Time taken: 92.54062247276306 seconds.
+2025-03-12 19:56:48,787 - file_processor - INFO - File processing completed.

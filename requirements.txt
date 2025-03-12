@@ -10,3 +10,5 @@ docling
 kor
 tqdm
 aiofiles
+tenacity
+psutil

@@ -2,25 +2,31 @@ import os
 import sys
 import hashlib
 from pathlib import Path
-
-from numpy import full
-
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 def error_exit(error_message):
     print(error_message)
     sys.exit(1)
 
-def generate_cache_file_name(file_path: str, cache_dir: str = "cache"):
+def split_document_text(text: str, chunk_size: int = 1000, chunk_overlap: int = 200) -> list[str]:
+    """Split document text into chunks with overlap."""
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size,
+        chunk_overlap=chunk_overlap,
+        separators=["\n\n", "\n", " ", ""]
+    )
+    return splitter.split_text(text)
+
+def generate_cache_file_name(file_path: str, cache_dir: str = "cache") -> str:
     """Generates a cache file name based on the first and last 4096 bytes of the file."""
     
     # Check if file is too small to process
     if os.path.getsize(file_path) < 4096:
-        error_exit(f"File {file_path} too small to process.")  # Ensure error_exit is defined in utils
+        error_exit(f"File {file_path} too small to process.")
 
     # Read the first and last 4096 bytes
     with open(file_path, "rb") as f:
         first_block = f.read(4096)
-        # seek to the last block
         f.seek(-4096, os.SEEK_END)
         last_block = f.read(4096)
 
@@ -34,24 +40,18 @@ def generate_cache_file_name(file_path: str, cache_dir: str = "cache"):
     # Return the full path to the cache file
     return os.path.join(cache_dir, f"{first_md5_hash}_{last_md5_hash}.txt")
 
-
 def is_file_cached(file_path: str, cache_dir: str = "cache") -> bool:
     """Checks if a file is already cached."""
-    # Generate the cache file path
     cache_file_name = generate_cache_file_name(file_path, cache_dir)
-    
-    # Check if the cache file exists
     return Path(cache_file_name).is_file()
-      
-    
 
 def show_usage_and_exit():
     error_exit("Please pass name of directory or file to process.")
     
 def enumerate_files(file_path):
     files_to_process = []
-    allowed_extensions = ['docx','doc']
-    # Users can pass a directory or a file name
+    allowed_extensions = ['docx', 'doc']
+    
     if os.path.isfile(file_path):
         if os.path.splitext(file_path)[1][1:].strip().lower() in allowed_extensions:
             files_to_process.append(file_path)

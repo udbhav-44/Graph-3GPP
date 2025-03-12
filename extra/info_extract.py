@@ -209,11 +209,18 @@ def enumerate_pdf_files(file_path):
 
                
 def extract_values_from_file(raw_file_data):
-    preamble = ("\n"
-                "Your ability to extract and summarize the relevant 3GPP information accurately is essential for effective research"
-                "Pay close attention to the language, structure, and any corss-refrences within the 3GPP data to ensure comprehensive and precise extraction of information."
-                "Do not use prior knowledge or information from outside the context to answer the question "
-                " Only use the information provided in the context to answer the questions.\n")
+    preamble = (
+        "\nYour task is to extract structured 3GPP technical information from the document. "
+        "Focus on technical specifications, working group relationships, and standard terminology. "
+        "Pay special attention to:\n"
+        "- Technical terms and their definitions\n"
+        "- Relationships between working groups and documents\n"
+        "- Document metadata (IDs, types, status)\n"
+        "- Cross-references and citations\n"
+        "Do not include extraneous commentary.\n"
+        "Only output the information structured according to the DataModel.\n"
+    )
+    
     postamble = "Do not include any explanation in the reply. Only include the extracted information in the reply."
     system_template = "{preamble}"
     system_message_prompt = SystemMessagePromptTemplate.from_template(system_template)
@@ -273,4 +280,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    
