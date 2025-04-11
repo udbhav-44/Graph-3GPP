@@ -1,8 +1,30 @@
 import os
 import sys
 import hashlib
+import logging
+from logging.handlers import RotatingFileHandler
 from pathlib import Path
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+def setup_logging():
+    logger = logging.getLogger("file_processor")
+    logger.setLevel(logging.DEBUG)
+
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
+
+    file_handler = RotatingFileHandler("file_processor.log", maxBytes=5*1024*1024, backupCount=2)
+    file_handler.setLevel(logging.DEBUG)
+
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    console_handler.setFormatter(formatter)
+    file_handler.setFormatter(formatter)
+
+    logger.addHandler(console_handler)
+    logger.addHandler(file_handler)
+
+    return logger
+
 
 def error_exit(error_message):
     print(error_message)

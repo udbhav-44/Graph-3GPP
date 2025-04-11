@@ -8,3 +8,5 @@ output/
 cache/
 utils/__pycache__/
 graph/
+Testing/
+Results/
