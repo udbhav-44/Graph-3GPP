@@ -1,0 +1,1473 @@
+id,name,description
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of 3GPP radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G/NR
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications in 3GPP standards.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of radio interfaces for cellular systems.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the physical layer specifications of NR, including waveform design and synchronization."
+RAN WG2,Radio Access Network Working Group 2,Handles MAC layer and higher protocol aspects in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio interface specifications, including physical layer protocols and MIMO enhancements."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including radio resource management and signal/channel design."
+RAN WG2,Radio Access Network Working Group 2,"Handles NR radio interface architecture and protocols, relevant for LP-WUS procedures."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and MIMO enhancements."
+RAN4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects in 3GPP.
+RAN WG4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects of UTRA and E-UTRA.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR (New Radio)
+RAN WG3,Radio Access Network Working Group 3,Focuses on the radio access network architecture and interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including radio interface architecture and protocols
+RAN WG3,Radio Access Network Working Group 3,Focuses on RF requirements and conformance testing
+RAN WG3,Radio Access Network Working Group 3,Responsible for UTRA and NR radio access network specifications including architecture and interfaces
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the physical layer specifications of NR radio access.
+RAN4,Radio Access Network Working Group 4,Handles RF and performance requirements.
+SA2,Service and System Aspects Working Group 2,"Responsible for architecture and service requirements, including energy efficiency studies."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio access layer specifications, including Ambient IoT standardization."
+RAN WG3,Radio Access Network Working Group 3,Addresses network infrastructure and inter-node interfaces.
+RAN WG4,Radio Access Network Working Group 4,3GPP group responsible for radio performance and protocol aspects.
+SA2,Service and System Aspects Working Group 2,Focuses on architecture and service requirements.
+RAN WG3,Radio Access Network Working Group 3,Responsible for radio access network interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (Physical Layer).
+RAN WG2,Radio Access Network Working Group 2,Responsible for MAC layer specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer architecture and protocols specification
+RAN WG2,Radio Access Network Working Group 2,"Responsible for MAC, RLC, PDCP, and SDAP layer specifications in NR."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of 5G NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures and RRM."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for 5G/NR physical layer specifications.
+RAN4,Radio Access Network Working Group 4,"Handles radio performance and protocol aspects, contributing to LP-WUR core requirements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of NR radio interfaces.
+RAN WG2,Radio Access Network Working Group 2,"Focuses on MAC, RLC, PDCP layers and radio interface architecture."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for LTE/NR radio interfaces.
+RAN WG4,Radio Access Network Working Group 4,Handles radio performance and protocol aspects of UTRA and E-UTRA.
+TSG-RAN WG1,3GPP TSG Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces.
+RAN4,Radio Access Network Working Group 4,Responsible for RF and RRM requirements for NR and LTE.
+TSG-RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and beam management."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP radio access technologies
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including physical layer and channel modeling."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications, including IoT-NTN TDD mode design."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface for NR and LTE.
+TSG-RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of radio interfaces.
+RAN WG4,Radio Access Network Working Group 4,Responsible for UE radio transmission and reception requirements
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR and LTE.
+RAN WG2,Radio Access Network Working Group 2,Responsible for the radio interface architecture and protocols in 3GPP systems.
+RAN4,Radio Access Network Working Group 4,Responsible for RF and radio performance specifications
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer enhancements for NR-NTN."
+RAN WG2,Radio Access Network Working Group 2,Radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including synchronization signals and energy-saving mechanisms."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer of NR and NTN standards.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer aspects of NR."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio access network specifications, including physical layer protocols and channel modeling."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP NR standards.
+RAN4,Radio Access Network Working Group 4,Focuses on RF and radio resource management
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio interface protocols and physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including SSB and SCell procedures."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of radio interfaces for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP radio access networks
+RAN WG3,Radio Access Network Working Group 3,Handles UE radio transmission/reception requirements and test specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications for NR and LTE
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols for NR."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio access network specifications, including physical layer protocols."
+RAN WG2,Radio Access Network Working Group 2,Focuses on NR radio interface protocols and architecture.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network layer 1 specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR/LTE
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 5G NR physical layer specifications, including radio resource control and channel structures."
+SA2,Service and System Aspects Working Group 2,"3GPP group handling architecture and service requirements, including IoT use cases."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP radio systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications.
+RAN WG4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects of NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of LTE/NR systems.
+RAN3,Radio Access Network Working Group 3,Focuses on overall UTRAN architecture
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer and RF characteristics
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR radio access
+RAN WG2,Radio Access Network Working Group 2,3GPP group responsible for radio interface architecture/protocols
+TSG-RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical channels and signals."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access architecture and specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and power control
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces for cellular systems.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio interface architecture and physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications including physical channels, coding, and IoT air interface design."
+RAN WG2,Radio Access Network Working Group 2,Focuses on MAC layer protocols and radio resource management.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR/LTE radio interfaces
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 5G NR radio interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP NR
+RAN WG3,Radio Access Network Working Group 3,Focuses on radio network architecture and interfaces.
+SA2,Service and System Aspects Working Group 2,Responsible for overall architecture and service requirements
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR air interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications development in 3GPP
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and MIMO techniques."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 5G-NR physical layer specifications, including synchronization signals and system information procedures."
+SA WG5,Telecom Management Working Group,Responsible for management framework and interface specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical channels
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining NR physical layer specifications, including MIMO and uplink enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications and physical layer measurements
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 3GPP radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR radio interfaces.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol testing.
+RAN WG1,Radio Access Network Working Group 1,Responsible for specifying the physical layer of 3GPP radio interfaces.
+TSG-RAN,Radio Access Network Working Group,3GPP group responsible for radio access network specifications.
+RAN WG2,Radio Access Network Working Group 2,Responsible for NR protocol aspects (Layers 2/3)
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR/UTRA systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for definition of the physical layer of radio interfaces
+RAN WG2,Radio Access Network Working Group 2,Responsible for layer 2/layer 3 specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP radio access technologies.
+RAN WG3,Radio Access Network Working Group 3,Responsible for radio access network architecture and interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer specifications including physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the definition of the physical layer of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical layer protocols and resource allocation mechanisms.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and UE capabilities."
+RAN WG3,Radio Access Network Working Group 3,Handles the overall UTRAN and E-UTRAN architecture and interfaces.
+TSG-RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of NR and LTE
+RAN WG2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols in NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (L1/L2)
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining the physical layer of 3GPP radio interfaces, including channel modeling and RF requirements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining radio access network specifications, including physical layer protocols and RF requirements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of the radio interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer architecture and protocol specifications
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications including channel structures, coding schemes, and physical layer procedures"
+RAN1,TSG-RAN Working Group 1,Responsible for physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for NR air interface.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for physical layer specifications of radio access technologies, including NR and Ambient IoT."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR systems.
+RAN WG1,Radio Access Network Working Group 1,Specifies physical layer protocols for NR.
+RAN2,Radio Access Network Working Group 2,Focuses on NR layer 2/layer 3 radio interface protocols.
+RAN4,Radio Access Network Working Group 4,Focuses on RF conformance and performance testing.
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for specifying the radio layer 1 (physical layer) of 3GPP NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of radio interfaces for 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and procedures."
+RAN4,Radio Access Network Working Group 4,Deals with RF parameters and conformance testing
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio technologies including NR and NTN.
+TSG-RAN WG1,3GPP RAN Working Group 1,Responsible for the definition of the physical layer of 3GPP radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including coverage enhancements."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer design."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications of the radio interface.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for RF, physical layer, and MAC layer specifications"
+RAN WG4,Radio Access Network Working Group 4,Handles radio performance and protocol aspects of NR and LTE.
+RAN4,Radio Access Network Working Group 4,"Handles radio performance and protocol aspects, including RF requirements."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications including channel structures, modulation, and coding"
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical channel structures and adaptation mechanisms."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of radio interfaces
+RAN1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio access technologies
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer structures and NR-NTN enhancements."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in 3GPP, including NR sidelink."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for LTE and NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including channel structures and modulation schemes
+RAN WG1,Radio Access Network Working Group 1,Specifies physical layer protocols for NR/5G systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G-NR.
+SA2,Service and System Aspects Working Group 2,Addresses architecture and signaling aspects for AI/ML in 5GC
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical channels and mobility procedures
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR radio layer 1 specifications, including physical layer protocols and positioning."
+RAN WG1,Radio Access Network Working Group 1,Responsible for 3GPP physical layer specifications and radio interface protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G NR physical layer specifications.
+RAN2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications including physical channels, modulation, and coding"
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio layer 2/3 specification development
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer specifications, including physical layer and MAC protocols."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols and MIMO enhancements."
+RAN WG4,Radio Access Network Working Group 4,Handles radio performance and protocol aspects of 3GPP radio access technologies.
+RAN WG3,Radio Access Network Working Group 3,Responsible for radio access network interfaces and OAM
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR Air Interface.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels/modulation.
+SA5,Service and System Aspects Working Group 5,"Manages telecom management, network orchestration, and OAM specifications"
+RAN2,Radio Access Network Working Group 2,"Focuses on radio layer 2 and layer 3 specifications, including RRC protocols."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface architecture and protocols specification
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access physical layer standardization
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of radio access networks
+RAN WG4,Radio Access Network Working Group 4,Handles RF conformance testing and RRM requirements.
+RAN4,Radio Access Network Working Group 4,Focuses on RF/radio performance requirements
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specification development
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G NR physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of 5G NR.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio access layer specifications, including physical layer and MAC protocols"
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G-NR
+RAN WG3,Radio Access Network Working Group 3,Responsible for architecture and interfaces specifications
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications for NR radio access.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining NR physical layer specifications and radio access protocols.
+RAN3,Radio Access Network Working Group 3,Handles overall UTRAN/E-UTRAN/NR architecture and interfaces.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects
+RAN4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications in 3GPP systems.
+SA5,Service and System Aspects Working Group 5,Focuses on telecom management and orchestration.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of the NR air interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (physical layer).
+RAN WG4,Radio Access Network Working Group 4,Defines radio performance and protocol aspects
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for LTE/NR.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of 3GPP specifications.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including beam management and AI/ML air interface enhancements."
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications of NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications including channel coding, modulation, and RF characteristics."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols and beam management."
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G-NR physical layer specifications and radio resource management.
+RAN WG3,Radio Access Network Working Group 3,Focuses on UTRAN overall architecture and interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR.
+RAN4,Radio Access Network Working Group 4,Radio performance and protocol aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for 3GPP radio layer 1 specifications (physical layer).
+RAN WG1,Radio Access Network Working Group 1,"Focuses on the physical layer specifications for NR radio access, including AI/ML enhancements for air interface."
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols (Layer 2/3)
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications of NR (New Radio) and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of NR and LTE standards.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the physical layer specifications of NR, including radio interface protocols and channel structures."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer enhancements for NR."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR/UTRA systems.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio access network specifications, including physical layer protocols."
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR and LTE physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G/NR physical layer specifications including radio interface protocols and channel modeling.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including IoT NTN enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and SBFD symbol configuration.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of NR.
+RAN WG4,Radio Access Network Working Group 4,Responsible for RF and RRM conformance testing.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including AI/ML air interface enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specification development including physical channels and modulation
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for NR/5G systems.
+RAN4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects
+RAN1,Radio Access Network Working Group 1,Responsible for physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR and LTE radio interfaces.
+RAN WG2,Radio Access Network Working Group 2,Handles higher-layer procedures and signaling for IoT-NTN TDD.
+RAN WG4,Radio Access Network Working Group 4,Responsible for RF and radio resource management.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining the physical layer of 3GPP radio interfaces, including waveform and resource allocation."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR.
+RAN2,Radio Access Network Working Group 2,Responsible for layer 2/layer 3 radio interface specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications of radio interfaces.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications for radio access
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio interface physical layer and protocol aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications (PHY, MAC, RRM)"
+RAN WG4,Radio Access Network Working Group 4,Deals with radio performance and protocol aspects
+RAN WG2,Radio Access Network Working Group 2,"Focuses on radio interface architecture and protocols, including UE state management."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR standards
+RAN WG3,Radio Access Network Working Group 3,Addresses radio access network integration.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications and radio resource management.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface in 3GPP standards.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of 3GPP radio access.
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications and MIMO enhancements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including positioning enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications and AI/ML air interface studies.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including UL/DL channel structures and coding."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer 1/layer 2 aspects of UTRA and E-UTRA.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications in 3GPP, including physical layer protocols."
+RAN4,Radio Access Network Working Group 4,Addresses RF and RRM requirements for NR and LTE.
+RAN WG2,Radio Access Network Working Group 2,"Focuses on protocol layers (MAC, RLC, PDCP) and radio interface architecture."
+SA5,Service and System Aspects Working Group 5,"Responsible for telecom management, orchestration, and OAM standardization."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for 3GPP technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access architecture and protocols.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols in NR.
+RAN WG2,Radio Access Network Working Group 2,Handles layer 2 and layer 3 radio interface specifications.
+RAN WG2,Radio Access Network Working Group 2,Focuses on NR layer 2/layer 3 radio interface protocols.
+SA5,Telecom Management Working Group,Responsible for management architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for specifying the physical layer of NR radio interfaces.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer procedures
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer (L1) specifications of NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including AI/ML integration into air interface."
+RAN WG2,Radio Access Network Working Group 2,"Focuses on MAC, RLC, and PDCP layer specifications."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer specifications including physical layer protocols and RF characteristics.
+RAN2,Radio Access Network Working Group 2,Focuses on NR layer 2/layer 3 protocols and radio interface architecture.
+TSG-RAN WG1,3GPP TSG Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G/NR.
+RAN WG4,Radio Access Network Working Group 4,Handles radio performance and protocol aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR/UMTS systems.
+5GAA WG4,5GAA Working Group 4,5GAA group focusing on spectrum & technology
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of 3GPP radio access technologies
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer standardization
+RAN WG1,Radio Access Network Working Group 1,Responsible for definition of the physical layer specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer procedures."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical layer and radio resource management
+RAN WG2,Radio Access Network Working Group 2,"Focuses on radio interface architecture and protocols, including UE behavior and measurement procedures."
+SA5,System Architecture Working Group 5,Responsible for 5G network management architecture and OAM standards
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio access network layer 1 specifications, including physical layer protocols."
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols (Layer 2/3).
+RAN WG4,Radio Access Network Working Group 4,Addresses RF and radio performance aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR and LTE
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specification development
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for radio access technologies in 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including LP-WUS and LP-SS design."
+RAN WG2,Radio Access Network Working Group 2,Focuses on the radio interface architecture and protocols.
+RAN WG2,Radio Access Network Working Group 2,Addresses radio interface architecture and protocols for NTN.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio channel modeling in 3GPP
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining physical layer specifications (Layer 1) for NR/5G systems, including AI/ML enhancements."
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of LTE/NR radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR air interface.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical channels and adaptation mechanisms."
+RAN WG4,Radio Access Network Working Group 4,Defines RF and RRM requirements for NTN deployments.
+RAN WG2,Radio Access Network Working Group 2,Focuses on NR radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR air interface.
+RAN4,Radio Access Network Working Group 4,Addresses RF aspects and conformance testing.
+RAN WG1,Radio Access Network Working Group 1,Deals with physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for NR physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer and frame structure design."
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of 3GPP specifications
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for 3GPP radio access technologies.
+TSG-RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer enhancements for NTN."
+RAN WG1,Radio Access Network Working Group 1,Specifies physical layer procedures for NR.
+RAN WG2,Radio Access Network Working Group 2,Focuses on the radio interface architecture and protocols in 3GPP.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of the radio interface
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the physical layer specifications of NR radio interface
+SA2,System Architecture Working Group 2,3GPP group addressing system architecture aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of NR
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR radio interface.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols (Layer 2/Layer 3)
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including channel modeling
+RAN WG2,Radio Access Network Working Group 2,"Focuses on MAC, RLC, and PDCP layer protocols."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces in 3GPP standards
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for radio access technologies
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR and LTE
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols in 3GPP systems.
+TSG-RAN,Radio Access Network Working Group,Responsible for radio access architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical channels and protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining NR physical layer specifications and channel models.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including physical layer structures for NTN and IoT."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for NR physical layer specifications, including AI/ML integration into air interface."
+SA2,Service and System Aspects Working Group 2,Addresses architecture and service requirements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G/NR physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the physical layer specifications of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications including physical channels, modulation, and synchronization"
+RAN WG4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining UE and base station requirements for radio interfaces.
+RAN WG4,Radio Access Network Working Group 4,Handles RF and radio performance aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of 3GPP radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols for IoT-NTN."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications and physical layer aspects of 5G NR
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specification development, including physical layer protocols and RF characteristics."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the physical layer specifications of LTE, NR, and related technologies."
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio access network specifications, including physical layer protocols and air interface technologies."
+RAN4,Radio Access Network Working Group 4,Defines RF and radio resource management requirements.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications in radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications and physical layer aspects of 3GPP systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including AI/ML enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the physical layer specifications of NR radio interfaces.
+RAN WG2,Radio Access Network Working Group 2,"Focuses on radio interface architecture, protocols, and service characteristics."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer standardization.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface physical layer specifications in 3GPP.
+RAN WG2,Radio Access Network Working Group 2,Responsible for Radio Interface Architecture and Protocols
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in 3GPP, including waveform design and multiple access."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer and radio interface specifications in 3GPP.
+RAN WG2,Radio Access Network Working Group 2,Focuses on NR layer 2/layer 3 radio interface architecture.
+RAN WG3,Radio Access Network Working Group 3,Focuses on overall architecture and interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio access technologies including NR beam management enhancements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications including channel structures and modulation.
+RAN WG1,Radio Access Network Working Group 1,Handles physical layer specifications for NR-NTN enhancements.
+RAN WG2,Radio Access Network Working Group 2,Responsible for layer 2/layer 3 radio interface specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications for NR and LTE.
+RAN WG2,Radio Access Network Working Group 2,"Focuses on radio interface architecture, protocols, and layer 2/3 specifications."
+RAN WG2,Radio Access Network Working Group 2,"Handles radio interface architecture, procedures, and RRM aspects related to LP-WUS configuration."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network physical layer specifications
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio layer 2/3 and radio interface architecture.
+RAN WG1,Radio Access Network Working Group 1,Responsible for specifying the physical layer of the NR radio interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including LP-WUS/LP-SS design."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols for NTN and IoT."
+RAN WG2,Radio Access Network Working Group 2,Focuses on NR radio interface architecture.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer architecture and protocols specification
+RAN WG2,Radio Access Network Working Group 2,"Focuses on radio interface architecture, MAC layer protocols, and mobility management in 3GPP systems."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio technologies
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specification development including physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR (New Radio) in 3GPP.
+TSG-RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 3GPP radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 5G NR radio interface
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including LP-WUS design and synchronization."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP.
+RAN WG2,Radio Access Network Working Group 2,Responsible for Layer 2 (MAC) and Layer 3 (RRC) protocol specifications
+RAN3,Radio Access Network Working Group 3,Handles overall UTRAN architecture and interworking.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining the physical layer specifications of 3GPP radio interfaces, including NR and LTE."
+RAN WG1,Radio Access Network Working Group 1,Focuses on the specification of radio access technologies and physical layer protocols in 3GPP.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network specifications including physical layer protocols and channel modeling.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer
+RAN WG1,Radio Access Network Working Group 1,Develops physical layer specifications for NR.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access network physical layer specifications
+RAN WG2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols for 5G NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and modulation
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access network physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols and channel structures."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer and channel modeling."
+RAN WG2,Radio Access Network Working Group 2,Focuses on NR radio interface protocols.
+RAN3,Radio Access Network Working Group 3,Focuses on RAN architecture and interfaces
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical channel structures.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of 3GPP radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces for 3GPP systems.
+SA5,Service and System Aspects Working Group 5,Manages OAM and network resource model specifications.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining the physical layer of NR specifications, including NTN enhancements."
+RAN WG2,Radio Access Network Working Group 2,Focuses on layer 2/layer 3 radio interface specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio interface specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of LTE/NR radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of LTE and NR radio interfaces
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 3GPP radio access technologies
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures and channel structures."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications.
+RAN WG3,Radio Access Network Working Group 3,Handles radio access network interoperability.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical layer procedures.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the specification of the physical layer of 3GPP radio interfaces, including NR and LTE."
+RAN WG2,Radio Access Network Working Group 2,Addresses NR radio interface protocols and AI/ML framework coordination.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer 1/layer 2 protocol and physical layer.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio access network specifications, including physical layer and RF aspects."
+RAN WG2,Radio Access Network Working Group 2,Focuses on NR layer 2/layer 3 protocols and radio interface architecture.
+RAN WG1,Radio Access Network Working Group 1,Responsible for definition of the physical layer and radio interface protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer 1 (physical layer) for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR radio layer 1 specifications, including physical layer protocols and UE features."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including SSB design and energy efficiency features."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the physical layer specifications of NR
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for 5G NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 5G NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including radio interface protocols and channel structures."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in radio access.
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications and channel models for 3GPP standards.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and AI/ML positioning aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including MIMO enhancements and CSI framework development
+RAN WG3,Radio Access Network Working Group 3,Focuses on network architecture interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for NR Air Interface.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications of 3GPP radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols for NTN."
+SA2,Service and System Aspects Working Group 2,Handles architecture and service capabilities.
+RAN WG4,Radio Access Network Working Group 4,3GPP group responsible for radio performance and protocol aspects
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR/LTE
+RAN3,Radio Access Network Working Group 3,Responsible for UMTS and LTE/5G NR architecture and interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR (New Radio).
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including beam management enhancements."
+RAN WG3,Radio Access Network Working Group 3,Focuses on UTRAN/GERAN architecture and interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio interface physical layer.
+RAN3,Radio Access Network Working Group 3,Handles radio access network interfaces and inter-node coordination.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer procedures for NR."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for physical layer specifications, including AIoT TB size evaluations."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining UE and base station radio functionalities in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and AI/ML model transfer mechanisms
+RAN WG2,Radio Access Network Working Group 2,Responsible for the radio interface architecture and protocols of NR and LTE.
+RAN4,Radio Access Network Working Group 4,Responsible for radio performance aspects
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and channel structures."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer procedures and MIMO enhancements.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications in 3GPP, including physical channels and modulation."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the UE & base station radio access capabilities and the specification of the physical layer
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols for NR and LTE."
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of NR
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces for cellular networks.
+RAN WG2,Radio Access Network Working Group 2,Responsible for NR protocol aspects (RLC/MAC/RRC)
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer procedures.
+TSG RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications
+RAN2,Radio Access Network Working Group 2,"Responsible for radio interface architecture, protocols, and procedures."
+SA2,Service and System Aspects Working Group 2,3GPP group handling architecture and service requirements
+3GPP,3rd Generation Partnership Project,Standardization organization for mobile telecommunications protocols.
+RAN WG2,Radio Access Network Working Group 2,Responsible for NR radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP radio systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including NTN and RedCap functionalities."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications and physical layer enhancements
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 5G NR physical layer specifications, including AI/ML-based positioning enhancements."
+RAN WG1,Radio Access Network Working Group 1,Specifies physical layer protocols for radio access.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols and waveforms."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including radio interface protocols and energy savings."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio interface physical layer (Layer 1)
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer for Ambient IoT."
+RAN WG1,Radio Access Network Working Group 1,Specifies physical layer protocols for radio interfaces
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining physical layer specifications in 3GPP, including radio access technologies and waveforms."
+5GAA WG4,5G Automotive Association Working Group 4,Focuses on spectrum & technology for connected automated driving and V2X communications.
+RAN WG3,Radio Access Network Working Group 3,Responsible for overall UTRAN architecture and interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer and radio access protocols in 3GPP standards.
+RAN WG4,Radio Access Network Working Group 4,Handles RF and RRM requirements for SBFD operation.
+TSG-RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and UE capabilities."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols and RF requirements."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces.
+RAN1,Radio Access Network Working Group 1,Responsible for physical layer specifications development
+RAN WG2,Radio Access Network Working Group 2,Handles MAC and RLC layer specifications in 3GPP.
+RAN WG2,Radio Access Network Working Group 2,Responsible for the radio interface architecture and protocols of NR.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including TS 38.214."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of 5G NR
+RAN WG2,Radio Access Network Working Group 2,Responsible for MAC and RLC layer specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of the radio interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications of 3GPP radio technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR/UTRA.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications in NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the development of physical layer specifications for 3GPP radio access technologies.
+RAN WG2,Radio Access Network Working Group 2,3GPP group focusing on radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including channel modeling
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio resource management in NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer structures and protocols."
+RAN WG2,Radio Access Network Working Group 2,Layer 2/3 specifications
+RAN WG2,Radio Access Network Working Group 2,Handles layer 2/3 specifications and radio interface architecture
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and AI/ML integration."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications in 3GPP
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications of 3GPP radio technologies, including NR NTN enhancements."
+TSG SA,Service and System Aspects Technical Specification Group,Responsible for overall architecture and service capabilities
+RAN WG2,Radio Access Network Working Group 2,Handles radio layer 2/3 specifications
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including physical layer protocols and procedures."
+RAN4,Radio Access Network Working Group 4,Focuses on RF and RRM conformance testing.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of radio access technologies
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specification of radio interfaces in 3GPP systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 5G-NR physical layer specifications, including UE radio access capabilities and features."
+RAN WG4,Radio Access Network Working Group 4,Defines RF and RRM requirements for IoT-NTN TDD bands.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols for NB-IoT and NTN."
+RAN WG2,Radio Access Network Working Group 2,Responsible for the radio interface architecture and protocols in NR and LTE.
+SA2,Service and System Aspects Working Group 2,Handles architecture and service requirements in 3GPP.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of radio interfaces
+RAN WG4,Radio Access Network Working Group 4,Focuses on RF/conformance testing aspects.
+RAN WG1,Radio Access Network Working Group 1,Handles physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer standardization in 3GPP
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer (physical layer) in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Specifies the physical layer of 3GPP radio interfaces.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including LP-WUS/WUR standardization."
+RAN WG2,Radio Access Network Working Group 2,Handles layer 2/layer 3 radio interface specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,"Responsible for 3GPP radio layer 1 specifications, including physical layer procedures."
+RAN WG4,Radio Access Network Working Group 4,Radio performance and protocol aspects
+RAN WG2,Radio Access Network Working Group 2,"Responsible for the architecture, protocols, and interfaces of the 3GPP radio access network."
+SA5,Service and System Aspects Working Group 5,"Responsible for telecommunications management, including network management and orchestration."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer specifications including physical layer and RF characteristics
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical channels and procedures.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of LTE/NR radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications for NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications and channel modeling.
+RAN WG4,Radio Access Network Working Group 4,Handles RF conformance testing and radio performance aspects.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and multi-carrier enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer and RF aspects
+RAN WG4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects
+RAN WG3,Radio Access Network Working Group 3,Handles RAN architecture and interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer protocols and radio resource management
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer in 3GPP standards.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specification development
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for 3GPP radio layer 1 specifications
+RAN2,Radio Access Network Working Group 2,Handles the radio interface architecture and protocols for NR and LTE.
+SA2,System Architecture Working Group 2,Responsible for overall system architecture and core network aspects
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the definition of the physical layer of 3GPP radio interfaces, including NR and NTN technologies."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network specifications including physical layer protocols
+TSG RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR radio access
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR and LTE
+RAN WG2,Radio Access Network Working Group 2,"Responsible for radio interface architecture and protocols, including mobility management"
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio access technologies
+RAN WG1,Radio Access Network Working Group 1,Develops physical layer specifications for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining physical layer specifications for 3GPP radio technologies, including NR and LTE."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications in NR
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures and waveforms."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including radio interface protocols and CA functionalities."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network functionality.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects in 3GPP NR
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining NR physical layer specifications and radio interface protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and RAN1-related work items.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications in 3GPP
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in radio access
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including LP-WUS design."
+RAN WG4,Radio Access Network Working Group 4,Handles RF and radio performance requirements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR radio layer 1 specifications.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer architecture and protocols
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio interface performance specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR air interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR radio interface
+RAN WG2,Radio Access Network Working Group 2,Handles MAC and RLC layer specifications
+RAN4,Radio Access Network Working Group 4,Responsible for radio performance requirements
+RAN WG4,Radio Access Network Working Group 4,"Focuses on RF and RRM conformance testing, critical for LP-WUS coverage requirements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including waveform design
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications of radio access technologies.
+RAN WG2,Radio Access Network Working Group 2,3GPP group responsible for radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access network layer 1 specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface in 5G NR.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in radio access networks
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of NR.
+RAN WG4,Radio Access Network Working Group 4,"Focuses on RF conformance testing, influencing SSB requirements for UE measurements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 5G/NR
+RAN WG1,Radio Access Network Working Group 1,Physical layer specifications
+RAN WG3,Radio Access Network Working Group 3,Focuses on radio access network interfaces and OAM aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G NR
+SA WG1,Service and System Aspects Working Group 1,Defines service requirements and system architecture for 3GPP technologies.
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the definition of the physical layer of NR, including radio interface protocols and RF/radio resource management aspects."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer procedures and channel coding."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR and LTE
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access architecture and protocols in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications in 3GPP, including physical layer protocols and multi-carrier enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for LTE/NR systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR and LTE radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (Physical layer)
+RAN WG2,Radio Access Network Working Group 2,Responsible for layer 2/layer 3 specifications and radio interface architecture
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR/LTE radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio interface physical layer standardization.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer protocols.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer procedures
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP
+RAN WG3,Radio Access Network Working Group 3,Responsible for radio access network interfaces and O&M
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications for radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and UL/DL MIMO enhancements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of LTE/NR radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR/LTE.
+RAN1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface architecture and protocols in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network layer 1 specifications
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications of radio access.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface for 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer standardization in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer (Layer 1) of radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of radio interfaces for cellular networks.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications including physical channels, modulation, coding, and duplexing"
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface in 3GPP standards.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of UTRA and E-UTRA
+RAN WG2,Radio Access Network Working Group 2,Focuses on MAC and RLC layer protocols in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for 3GPP physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including duplexing and resource allocation."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including energy-saving mechanisms."
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications and radio access network protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of the radio interface.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR.
+RAN1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR.
+RAN WG1,Radio Access Network Working Group 1,"Focuses on physical layer specifications for NR, including AI/ML integration for air interface enhancements."
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for NR/5G air interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and channel modeling in 3GPP
+RAN WG1,Radio Access Network Working Group 1,Specifies physical layer protocols for NR
+TSG-RAN WG2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols in 3GPP standards
+RAN1,Radio Access Network Working Group 1,Specifies physical layer protocols for radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical layer design
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access technologies.
+RAN WG2,Radio Access Network Working Group 2,"Focuses on radio interface architecture and protocols, including MAC and RLC layers."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for 5G NR.
+RAN WG3,Radio Access Network Working Group 3,Addresses radio access network integration and testing.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels/signals
+RAN2,Radio Layer 2/3 Working Group,Handles radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio resource management
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the physical layer specifications of NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including uplink transmission procedures."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols for LTE/NR."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including Ambient IoT waveform design."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of radio access networks
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio access layer specifications, including physical layer protocols."
+RAN4,Radio Access Network Working Group 4,Responsible for RF/conformance testing
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for physical layer specifications including channel coding, modulation, and RF characteristics"
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio interface protocols.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer of 3GPP radio standards.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications for NR/UTRA
+RAN2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols.
+RAN WG2,Radio Access Network Working Group 2,"Focuses on LTE and NR radio interface architecture, MAC, and RLC layers."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specification development including physical channels/modulation
+RAN WG2,Radio Access Network Working Group 2,Responsible for NR protocol aspects (Layer 2/3)
+RAN2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols in NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Handles physical layer specifications for radio access
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer standardization
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio resource management in 5G NR
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols and channel modeling."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 5G NR systems
+RAN WG4,Radio Access Network Working Group 4,Addresses RF and RRM conformance testing.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining NR physical layer specifications, including ISAC channel modeling."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications in 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for LTE and NR physical layer specifications, including NB-IoT."
+RAN WG4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access physical layer standardization
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the physical layer specifications of radio access technologies.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and procedures
+RAN WG2,Radio Access Network Working Group 2,Handles layer 2/layer 3 radio interface protocols.
+RAN4,Radio Access Network Working Group 4,Focuses on RF and RRM requirements for NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including AI/ML integration into the air interface."
+RAN WG4,Radio Access Network Working Group 4,Focuses on RF and RRM conformance testing
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 5G/NR systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,"Responsible for RF, physical layer, and protocol aspects of radio access technologies."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including MIMO and CSI frameworks
+RAN2,Radio Access Network Working Group 2,Handles layer 2/layer 3 specifications and UE capabilities.
+RAN WG2,Radio Access Network Working Group 2,Responsible for the radio interface architecture and protocols of 3GPP systems
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including waveforms and synchronization signals."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the definition of the physical layer of radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Focuses on physical layer specifications for radio interfaces, including NR and LTE."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for 5G/NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for 3GPP radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications for NR radio access.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces in 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including LP-WUS design
+SA2/SA4,System Architecture Group 2/4,Coordinates with RAN on multi-modal QoS and core network aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the physical layer specifications of NR, including LP-WUS and LP-SS design."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (physical layer) in 3GPP.
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols for NR and LTE.
+SA2,TSG-SA Working Group 2,Responsible for architecture and protocol aspects of 5G systems
+RAN WG3,Radio Access Network Working Group 3,Focuses on radio access network implementation aspects
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of 3GPP radio access technologies.
+TSG-RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical channels and modulation."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR and AIoT.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications
+RAN WG2,Radio Access Network Working Group 2,"Focuses on MAC, RLC, and PDCP layers."
+RAN WG1,Radio Access Network Working Group 1,Develops physical layer specifications for NR/LTE.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols for NR."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio interface protocols in 3GPP
+RAN WG2,Radio Access Network Working Group 2,Handles the radio interface architecture and protocols for NR and LTE.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols in 5G NR
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of radio layer 1 (physical layer) functionalities in 3GPP.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols in 3GPP systems
+RAN WG2,Radio Access Network Working Group 2,Responsible for 5G NR radio interface architecture
+RAN4,Radio Access Network Working Group 4,"Focuses on radio performance and protocol aspects, including RF requirements and test specifications."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including AI/ML integration for air interface."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including IoT-NTN physical layer design"
+TSG-RAN WG1,3GPP TSG RAN Working Group 1,"Responsible for radio access network specifications, including physical layer protocols and RF characteristics."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of radio interfaces in 3GPP.
+RAN3,Radio Access Network Working Group 3,Responsible for overall UTRAN architecture
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including PRACH procedures and coverage enhancements."
+TSG-RAN WG1,3GPP RAN Working Group 1,"Responsible for radio access network layer 1 specifications, including physical layer protocols."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio access layer specifications, including physical layer and MAC protocols."
+TSG-RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including UE procedures and resource allocation."
+RAN3,Radio Access Network Working Group 3,Addresses overall UTRAN architecture and interfaces.
+RAN4,Radio Access Network Working Group 4,Handles radio performance and RF requirements.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance/parameter coordination
+RAN4,Radio Access Network Working Group 4,Addresses radio performance and protocol aspects.
+RAN WG4,Radio Access Network Working Group 4,"Focuses on radio performance and protocol aspects, including RF requirements and conformance testing."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR radio layer 1 specifications, including physical layer protocols and channel structures."
+RAN WG3,Radio Access Network Working Group 3,Responsible for UMTS and LTE radio access network architecture/interfaces specifications
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer protocols and RF characteristics
+TSG RAN,Radio Access Network Technical Specification Group,Responsible for radio access standards development in 3GPP
+RAN2,Radio Access Network Working Group 2,Responsible for radio interface architecture
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces in 3GPP standards.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 5G/NR physical layer specifications, including RRM and scheduling mechanisms."
+RAN WG4,Radio Access Network Working Group 4,Deals with RF and RRM conformance testing
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR/UMTS radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including CSI feedback
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols for NR and LTE."
+TSG-RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications in NR/LTE radio access.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including physical layer protocols."
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols.
+RAN WG2,Radio Access Network Working Group 2,"Focuses on radio interface architecture, protocols, and resource management in 3GPP."
+RAN WG3,Radio Access Network Working Group 3,Responsible for radio access network architecture
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer 1/2/3 and radio access architecture in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 5G NR physical layer specifications, including TS 38.211 and TS 38.215."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface specifications including physical layer protocols and AI/ML integration in 5G/6G systems.
+RAN,Radio Access Network Working Group,3GPP group responsible for radio access standards.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR and LTE
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the physical layer specifications of NR, including channel structures, modulation, and reference signals."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of NR radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of radio access technologies in 3GPP.
+RAN2,Radio Access Network Working Group 2,Responsible for the radio interface architecture and protocols
+RAN WG2,Radio Access Network Working Group 2,Responsible for the radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including MIMO and CSI framework
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network physical layer specifications
+RAN WG3,Radio Access Network Working Group 3,Focuses on UTRA and NR radio access network interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and beam management
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of NR and LTE.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specification development including physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,"Responsible for RF, physical layer, and radio protocol aspects of UTRA and E-UTRA."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 3GPP radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for definition of the physical layer of radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications in NR.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network functionalities
+RAN WG4,Radio Access Network Working Group 4,Handles RF/conformance testing for NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio resource management in 3GPP
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer and RF aspects.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access physical layer specifications
+RAN WG4,Radio Access Network Working Group 4,Focuses on RF and radio performance aspects of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR/5G systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications for NR including MIMO enhancements and channel modeling
+RAN WG1,Radio Access Network Working Group 1,Handles physical layer specifications for NR air interface
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including IoT-NTN physical layer enhancements."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer channel modeling."
+RAN WG1,Radio Access Network Working Group 1,Specifies the physical layer of 3GPP radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining NR physical layer protocols and functionalities.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer architecture and specifications
+RAN4,Radio Access Network Working Group 4,Handles radio performance and protocol aspects.
+RAN WG3,Radio Access Network Working Group 3,Focuses on NG-RAN architecture and inter-gNB mobility.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including UE radio transmission/reception
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR and LTE radio interfaces
+SA5,Service and System Aspects Working Group 5,Focuses on network management aspects including AI/ML model loading
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP NR systems.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications and radio interface protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer 1 (physical layer)
+RAN WG4,Radio Access Network Working Group 4,Focuses on RF and RRM conformance testing for NR.
+RAN4,Radio Access Network Working Group 4,3GPP group responsible for radio frequency and performance requirements.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces for 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer standardization for 5G/6G systems.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical channels and modulation."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications and channel modeling in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer channel modeling
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance aspects
+RAN WG3,Radio Access Network Working Group 3,"Handles RAN architecture, interfaces, and inter-node coordination."
+RAN WG2,Radio Access Network Working Group 2,"Focuses on radio interface architecture, protocols, and MAC layer specifications."
+RAN WG2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols.
+SA WG2,3GPP SA Working Group 2,"Focuses on architecture and service requirements, including UAV regulatory aspects."
+TSG-RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures and channel structures."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 5G-NR physical layer specifications, including energy-saving features like on-demand SIB1."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR and LTE.
+RAN WG4,Radio Access Network Working Group 4,Responsible for RF and RRM requirements.
+RAN WG3,Radio Access Network Working Group 3,Handles network architecture and interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for 3GPP radio technologies.
+RAN WG3,Radio Access Network Working Group 3,Responsible for RF and RRM requirements
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in 3GPP, including radio interface protocols and channel structures."
+RAN WG1,Radio Access Network Working Group 1,Specifies physical layer protocols for radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio access network specifications, including physical layer protocols and Ambient IoT."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP NR.
+TSG-RAN1,3GPP TSG RAN Working Group 1,Focuses on the physical layer specifications of radio access technologies for 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR radio access.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio interfaces
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 5G/NR physical layer specifications, including duplexing and interference management."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for UTRA and E-UTRA.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications and physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access layer 1 specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications for radio interfaces.
+RAN WG4,Radio Access Network Working Group 4,Defines RF and RRM requirements.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR/UTRA
+RAN2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols in 3GPP
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications including waveform design, synchronization, and RRM procedures."
+RAN WG2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols including RRC signaling.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including energy saving enhancements."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for NR/UTRA.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer and RF characteristics
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures for NTN and IoT."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of radio access technologies
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR radio interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications and physical layer protocols.
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for 5G-NR.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of NR specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP radio standards.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of 3GPP radio technologies.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including MIMO and CSI enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio channel modeling
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the specification of the physical layer of NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access physical layer specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and channel structures."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of NR radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR/LTE radio interfaces.
+RAN2,Radio Access Network Working Group 2,Handles layer 2/layer 3 radio interface specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (Physical Layer)
+SA WG2,Service Architecture Working Group 2,Responsible for overall architecture and service capabilities of 3GPP systems
+RAN WG2,Radio Access Network Working Group 2,"Focuses on radio interface architecture and protocols, including mobility management."
+RAN WG2,Radio Access Network Working Group 2,"Handles radio interface architecture, protocols, and service requirements."
+RAN WG1,3GPP Radio Access Network Working Group 1,"Responsible for physical layer specifications in 5G NR, including ISAC functionalities."
+RAN WG4,Radio Access Network Working Group 4,Handles RF and radio performance aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical layer protocols and RF characteristics.
+RAN WG2,Radio Access Network Working Group 2,Radio interface architecture/protocols
+RAN4,Radio Access Network Working Group 4,"Focuses on radio performance and protocol aspects, including RF requirements and conformance testing."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 5G NR
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network functionality
+RAN WG4,Radio Access Network Working Group 4,Responsible for UE radio transmission/reception requirements and protocol conformance.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR/LTE.
+RAN WG4,Radio Access Network Working Group 4,Focuses on RF and RRM conformance testing.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining radio layer specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical channel structures and procedures."
+RAN WG2,Radio Access Network Working Group 2,Responsible for MAC/layer 2 specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G/NR systems
+RAN WG4,Radio Access Network Working Group 4,Responsible for RF and radio performance requirements.
+RAN WG2,Radio Access Network Working Group 2,Handles layer 2 and layer 3 radio interface specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR.
+RAN2,Radio Access Network Working Group 2,Responsible for radio interface protocols
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications of radio interfaces for cellular networks.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures and mobility."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical channels and modulation
+RAN WG3,Radio Access Network Working Group 3,Focuses on radio access network architecture and interfaces.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer enhancements for NTN."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer of NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer (Layer 1) of NR.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture
+RAN2,Radio Access Network Working Group 2,Responsible for radio interface architecture/protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR radio interface
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer specifications, including 5G NR and IoT."
+SA5,Service and System Aspects Working Group 5,"Focuses on telecom management, orchestration, and OSS."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channel structures and synchronization signals
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including energy savings enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR-NTN.
+SA WG2,Service and System Aspects Working Group 2,Responsible for architecture and service requirements
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols and power saving mechanisms."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,Develops physical layer specifications for 3GPP radio technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical layer protocols.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications including radio interface protocols and channel structures
+RAN WG2,Radio Access Network Working Group 2,"Handles NR radio interface architecture and protocols, including UE capability signaling."
+RAN2,Radio Access Network Working Group 2,Focuses on NR layer 2/layer 3 radio interface specifications.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including channel structures and coding."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer (physical and MAC) in 3GPP.
+RAN WG3,Radio Access Network Working Group 3,Focuses on radio access network integration and testing
+RAN WG3,Radio Access Network Working Group 3,Addresses radio access network interfaces and performance aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer standardization in 3GPP NR.
+RAN2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining LTE and NR physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer procedures for NR and LTE."
+RAN WG2,Radio Access Network Working Group 2,Responsible for the radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access technology development
+RAN4,Radio Access Network Working Group 4,"Focuses on radio performance and protocol aspects, including deployment scenarios."
+RAN4,Radio Access Network Working Group 4,Responsible for radio performance/protocol aspects
+RAN WG1,Radio Access Network Working Group 1,Focuses on radio layer specifications for NR and LTE.
+TSG-RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer specifications, including physical layer design."
+RAN WG4,Radio Access Network Working Group 4,"Focuses on radio performance and protocol aspects, including RRM requirements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications development
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network functionalities in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications in 3GPP NR.
+RAN2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols for NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including IoT device architectures."
+RAN WG4,Radio Access Network Working Group 4,Defines RF parameters and performance requirements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR/LTE.
+RAN WG2,Radio Access Network Working Group 2,Focuses on the radio interface architecture and protocols for UTRA and E-UTRA.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications development
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer specifications of NR (New Radio).
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of 3GPP radio access technologies.
+RAN3,Radio Access Network Working Group 3,Addresses core network and interworking aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (PHY layer)
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications in 3GPP.
+RAN,Radio Access Network Working Group,Responsible for defining requirements and specifications for radio access technologies in 3GPP.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for definition of physical layer specifications
+RAN WG3,Radio Access Network Working Group 3,Focuses on radio access network interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of radio interfaces
+RAN4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of 3GPP radio interfaces
+TSG-RAN WG4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects of 3GPP standards.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the physical layer specifications of NR, LTE, and related radio technologies"
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer and RF aspects."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of NR radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access protocols in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of the radio interface for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of radio interfaces for 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols and positioning techniques."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in 3GPP, including waveform, modulation, and channel coding for NR and IoT technologies."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access layer 1 specifications.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the physical layer specifications of radio interfaces.
+RAN WG3,Radio Access Network Working Group 3,Handles architectural aspects and interfaces for radio access.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for defining physical layer specifications for radio interfaces, including UL/DL MIMO enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and synchronization
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR and LTE radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR
+RAN3,Radio Access Network Working Group 3,Handles overall UTRAN/E-UTRAN/NG-RAN architecture and interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface for cellular networks.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining UE & base station requirements/physical layer specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,"Responsible for RF, physical layer, and protocol aspects of radio access"
+RAN1,Radio Access Network Working Group 1,Responsible for physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical channels and modulation.
+SA2,Service and System Aspects Working Group 2,Handles architecture and service requirements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including waveform design and radio resource management."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures and MIMO enhancements."
+SA2,System Architecture Group 2,"Focuses on architecture and signaling protocols for 3GPP systems, including core network and service capabilities."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications in 3GPP
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR radio interface
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols in 3GPP
+TSG-RAN,Radio Access Network Technical Specification Group,3GPP group responsible for radio access network specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications and radio access technologies.
+RAN2,Radio Access Network Working Group 2,Radio interface architecture
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 3GPP radio layer 1 specifications, including physical layer protocols."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (physical layer)
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining NR physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for definition of the physical layer
+RAN WG3,Radio Access Network Working Group 3,Responsible for radio access network interfaces and performance
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G NR
+RAN WG1,Radio Access Network Working Group 1,Specifies NR physical layer protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network protocols
+RAN WG3,Radio Access Network Working Group 3,Focuses on radio access network integration and testing.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of 3GPP radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer aspects for NR."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of the radio interface
+RAN4,Radio Access Network Working Group 4,Addresses radio frequency and coexistence aspects of wireless systems.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects in 3GPP
+RAN3,Radio Access Network Working Group 3,Responsible for UTRAN and E-UTRAN overall architecture
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including physical layer protocols and RF characteristics."
+RAN WG1,Radio Access Network Working Group 1,"Focuses on physical layer specifications for NR, including radio interface protocols and signal/channel design."
+SA2,Service and System Aspects Working Group 2,Responsible for overall architecture and service capabilities
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR/LTE
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR air interface
+TSG-RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer (physical and MAC layers) in NR.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer protocols.
+RAN WG3,Radio Access Network Working Group 3,Handles radio network interoperability and performance.
+RAN WG2,Radio Access Network Working Group 2,"3GPP group handling MAC layer aspects, referenced for aligning MAC PDU sizes with PHY TBs."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer protocols and channel measurements
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols and channel measurements."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications and radio access network functionalities.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR radio access
+RAN WG2,Radio Access Network Working Group 2,Focuses on the radio interface architecture and protocols in 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 5G NR
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications in 3GPP
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical channel structures and synchronization mechanisms."
+RAN5,Radio Access Network Working Group 5,Focuses on terminal conformance testing and certification.
+RAN WG1,Radio Access Network Working Group 1,"Focuses on physical layer specifications for radio interfaces, including AI/ML integration for CSI enhancements."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including radio interface protocols and signal/channel design."
+RAN2,Radio Access Network Working Group 2,Handles NR radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications (physical layer)
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer of 3GPP radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels/modulation
+RAN2,Radio Access Network Working Group 2,Addresses radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for 3GPP physical layer specifications
+RAN2,Radio Access Network Working Group 2,Addresses radio interface layer 2/3 and radio resource management.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR/NTN
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications for 3GPP radio access technologies.
+RAN WG2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols (Layer 2/Layer 3)
+RAN WG1,Radio Access Network Working Group 1,"Defines functions, requirements, and interfaces of the radio access network in 3GPP standards."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including synchronization and wake-up signal design
+TSG RAN WG2,Radio Access Network Working Group 2,Responsible for layer 2/layer 3 specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer 1 (physical layer) for cellular networks.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access layer 1 specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer protocols and RF characteristics
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of NR and LTE.
+RAN WG4,Radio Access Network Working Group 4,Focuses on RF and RRM performance requirements for LP-WUS and LP-SS.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols (Layer 2/3).
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of 3GPP radio access technologies
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture/protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including channel modelling
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 5G/NR physical layer specifications, including sidelink and unlicensed spectrum operations."
+SA5,Service and System Aspects Working Group 5,Responsible for 3GPP system architecture and management solutions.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of UTRA and NR.
+RAN3,Radio Access Network Working Group 3,Focuses on overall UTRAN/E-UTRAN architecture and interfaces.
+RAN WG2,Radio Access Network Working Group 2,Focuses on MAC layer specifications and radio interface architecture.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including reference signals and measurements
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and mobility enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR radio access.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer procedures and HARQ mechanisms.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer 1 of 3GPP systems.
+TSG-RAN WG1,3GPP TSG Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 3GPP radio interfaces.
+TSG CT,Core Network and Terminals Technical Specification Group,Responsible for core network and terminal interface specifications
+RAN WG3,Radio Access Network Working Group 3,Addresses NR radio access network integration and testing.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR and LTE
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer (physical layer and protocol layers) in 3GPP systems.
+RAN4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects.
+RAN WG2,Radio Access Network Working Group 2,Focuses on NR layer 2/layer 3 radio interface specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures and beam management."
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols in 3GPP NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of LTE and NR radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G NR physical layer specifications and radio access technologies.
+RAN WG2,Radio Access Network Working Group 2,Handles NR radio interface architecture and protocols.
+RAN WG2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols
+RAN4,Radio Access Network Working Group 4,Responsible for RF and RRM requirements
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR and LTE.
+RAN2,Radio Access Network Working Group 2,Handles layer 2/layer 3 radio interface architecture
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access technologies in 3GPP
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access network specifications
+RAN WG3,Radio Access Network Working Group 3,Focuses on network architecture and interfaces.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP radio access networks.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of 3GPP standards.
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G-NR physical layer specifications.
+RAN WG2,Radio Access Network Working Group 2,Handles radio interface architecture and protocols for NR/5G.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR radio interface.
+SA5,Service and System Aspects Working Group 5,"Responsible for telecom management, network management, and orchestration specifications"
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications in 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G/NR physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,"Focuses on physical layer specifications for NR, including NTN enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network functionalities in 3GPP
+RAN WG3,Radio Access Network Working Group 3,Addresses radio access network integration and performance aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of NR and LTE radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G/NR systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface in 3GPP specifications.
+SA2,System Architecture Working Group 2,Responsible for overall system architecture
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures for NR."
+RAN2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer standardization in 3GPP radio access technologies.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the definition of the physical layer
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications
+SA3,Security Assurance Group,Responsible for 3GPP security standards
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer aspects of positioning."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of radio interfaces.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces in 3GPP specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (PHY)
+RAN WG4,Radio Access Network Working Group 4,Focuses on RF and radio resource management aspects.
+RAN WG4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects including RF requirements.
+RAN WG4,Radio Access Network Working Group 4,Addresses radio performance and protocol aspects.
+RAN WG1,Radio Access Network Working Group 1,Specifies physical layer protocols for radio interfaces.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface protocols in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR/LTE radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G NR systems
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface physical layer specifications and evaluation methodologies.
+RAN2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer channel modeling.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including waveform design and synchronization signals
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G/NR physical layer specifications including sidelink protocols.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of the radio interface for cellular networks.
+RAN4,Radio Access Network Working Group 4,Addresses RF and radio performance requirements.
+RAN WG4,Radio Access Network Working Group 4,"Focuses on radio performance and protocol aspects, including RF requirements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer procedures and channel structures.
+RAN WG1,Radio Access Network Working Group 1,Develops physical layer specifications for 3GPP radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and energy savings."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of 3GPP NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications for radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and MAC-CE functionalities."
+RAN WG4,Radio Access Network Working Group 4,Handles radio performance and protocol aspects of NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including AI/ML integration for NR physical layer."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of 3GPP radio interfaces.
+RAN WG4,Radio Access Network Working Group 4,Handles RF and RRM performance requirements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of the radio interface for 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications including AI/ML air interface enhancements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network design in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including HARQ-ACK procedures."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications of NR and LTE.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio layer 2/3 specifications
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio access layer specifications, including physical layer protocols."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including A-IoT enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for radio interfaces in 3GPP standards.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and AI/ML air interface enhancements
+CT,Core Network and Terminals Working Group,Responsible for core network architecture and terminal interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 3GPP radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 5G NR radio interface.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining UE & base station physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the physical layer specifications of NR, including synchronization, signaling, and energy efficiency enhancements."
+RAN WG1,Radio Access Network Working Group 1,Develops physical layer specifications for NR/LTE radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and coding.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer structures for NR."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications including DCI formats and scheduling mechanisms
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP NR standards
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer design."
+RAN WG1,Radio Access Network Working Group 1,Handles physical layer specifications for radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 3GPP radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer specifications, including physical layer and IoT technologies."
+RAN WG1,Radio Access Network Working Group 1,Physical layer specifications for NR
+TSG-RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio interface architecture and protocols, physical layer specifications, and radio resource management."
+RAN WG4,Radio Access Network Working Group 4,Handles radio performance and protocol aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer procedures and channel modeling
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in 3GPP, including Ambient IoT frame structure design."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer and radio resource management protocols in 3GPP.
+RAN WG4,Radio Access Network Working Group 4,Responsible for RF and RRM conformance testing
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces in 3GPP standards.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications and radio access technologies in 3GPP.
+RAN WG2,Radio Access Network Working Group 2,Handles radio interface architecture/protocols
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including physical layer protocols for NR."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in NR, including NTN enhancements."
+RAN WG4,Radio Access Network Working Group 4,Responsible for RF/conformance testing.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer and RF characteristics.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and waveforms."
+RAN3,Radio Access Network Working Group 3,Responsible for radio network architecture and interfaces in 3GPP.
+TSG-RAN WG1,3GPP TSG RAN Working Group 1,Responsible for radio layer 1 specifications.
+RAN WG2,Radio Access Network Working Group 2,3GPP group responsible for radio interface architecture
+RAN4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects including RF parameters
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR and LTE
+RAN WG1,Radio Access Network Working Group 1,Responsible for 3GPP NR physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications for NR.
+RAN WG4,Radio Access Network Working Group 4,Responsible for RF conformance testing
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical layer protocols and RF characteristics.
+TSG-RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specification development
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of radio access technologies in 3GPP.
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of UTRA and E-UTRA.
+TSG-RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols
+RAN WG4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects of radio access networks.
+RAN WG4,Radio Access Network Working Group 4,Handles RF and radio resource management aspects.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including UE capabilities and radio resource management."
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols in RAN.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer protocols for cellular networks."
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for radio access technologies in 3GPP.
+RAN WG2,Radio Access Network Working Group 2,Addresses radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio interface physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer and radio resource management protocols.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications including physical channels and signals
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the specification of the radio layer 1 (physical layer) and layer 2 (MAC, RLC) of UTRA and E-UTRA."
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications for radio access technologies in 3GPP.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio resource management in 3GPP
+RAN4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects of 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for NR physical layer specifications
+RAN3,Radio Access Network Working Group 3,Responsible for UTRA & E-UTRA architecture interfaces
+SA WG2,System Architecture Working Group 2,"Responsible for 3GPP system architecture, including core network and service capabilities."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including physical layer protocols and UE power saving."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of LTE and NR radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio interface physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining NR physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications in 3GPP NR standards.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical channels and MIMO."
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects of UTRA and E-UTRA
+TSG-RAN WG1,3GPP RAN Working Group 1,Responsible for radio layer 1 specifications in 5G NR.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical channel procedures."
+Unknown WG,Unknown Working Group,
+SA4,Service and System Aspects Working Group 4,Deals with codecs and media delivery.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP standards
+RAN WG1,Radio Access Network Working Group 1,Specifies UE & base station radio performance requirements.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of NR and LTE radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer structures and waveforms."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including AI/ML enhancements for air interfaces."
+RAN WG1,Radio Access Network Working Group 1,Handles physical layer specifications for NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications (physical layer through MAC/RLC)
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 3GPP NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining UE and base station requirements in 3GPP standards.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and positioning techniques."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer channel modeling
+RAN WG3,Radio Access Network Working Group 3,Handles radio access network interfaces and optimization.
+RAN1,Radio Access Network Working Group 1,Focuses on physical layer specifications and radio resource management.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR/UMTS.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for 5G NR.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of NR/LTE.
+RAN4,Radio Access Network Working Group 4,Focuses on RF and RRM requirements.
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications for NR (New Radio).
+CT WG4,Core Network and Terminals Working Group 4,Responsible for core network architecture and terminal interfaces in 3GPP specifications.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications and physical layer procedures
+RAN4,Radio Access Network Working Group 4,Defines RF/conformance requirements for NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces for NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network protocols in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP standards.
+SA2/SA4,System Architecture Working Groups,Handle overall system architecture and multimedia codecs
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols for 3GPP systems.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications including channel structures, coding, and multiplexing."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer and RRM."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and UE capabilities.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface in NR.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications and physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the physical layer specifications of 3GPP radio interfaces, including channel modeling."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including NTN and RedCap enhancements."
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access network specifications including physical layer protocols.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in 3GPP, including IoT-NTN enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for 3GPP NR physical layer specifications and radio access protocols.
+RAN2,Radio Access Network Working Group 2,Handles radio layer 2 and radio resource control.
+RAN3,Radio Access Network Working Group 3,Addresses core network and terrestrial interfaces for RAN.
+RAN4,Radio Access Network Working Group 4,Focuses on RF and RRM conformance testing for UE and base stations.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of UTRA and E-UTRA.
+RAN3,Radio Access Network Working Group 3,Focuses on overall UTRAN architecture and interfaces.
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for NR (New Radio).
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio access network specifications, including physical layer protocols and beam management."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including Ambient IoT enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in NR systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of LTE and NR.
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio resource management in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in radio access technologies
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio access layer specifications, including physical layer protocols for NTN and IoT."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of radio interfaces in 3GPP systems.
+SA2,System Architecture Working Group 2,Focuses on architecture and signaling protocols for 3GPP systems.
+RAN,Radio Access Network Working Group,Responsible for radio interface architecture and protocols
+RAN1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP
+RAN WG1,Radio Access Network Working Group 1,Responsible for NR physical layer specifications and Ambient IoT standardization.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications in 3GPP, including physical layer procedures."
+RAN2,Radio Access Network Working Group 2,Handles NR layer 2/layer 3 radio interface specifications.
+RAN WG4,Radio Access Network Working Group 4,Handles RF and radio resource management conformance testing.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network architecture
+RAN WG2,Radio Access Network Working Group 2,Focuses on radio interface architecture and protocols in 3GPP.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,Develops physical layer specifications for 3GPP radio technologies
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and protocols
+RAN WG2,Radio Access Network Working Group 2,Responsible for MAC layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and procedures
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the physical layer specifications of NR radio interface, including NTN enhancements"
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio interface specifications and channel modeling.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR sidelink evolution.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer procedures and channel modeling.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols specification in 3GPP
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR and LTE radio interfaces.
+RAN WG3,Radio Access Network Working Group 3,Addresses RF requirements and conformance testing.
+RAN WG2,Radio Access Network Working Group 2,Focuses on NR radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the definition of the physical layer of radio interfaces for UTRA, E-UTRA, and NR."
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of 3GPP NR.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications for NR
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications and radio access technologies
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and RF characteristics."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR/LTE radio interface
+SA2,System Architecture Working Group 2,Responsible for 5G system architecture and network protocols
+RAN WG1,Radio Access Network Working Group 1,Handles physical layer specifications for radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR/UMTS radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of LTE/NR.
+RAN WG4,Radio Access Network Working Group 4,Deals with radio performance and protocol aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer standardization of 3GPP radio access technologies including NR and LTE.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of 3GPP radio interfaces.
+RAN4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of the radio interface for 3GPP systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer specifications including physical layer and RF characteristics
+TSG RAN,3GPP TSG Radio Access Network,"Responsible for radio access standards, including UAV-related specifications."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications for radio access
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures for NR-NTN."
+RAN WG1,Radio Access Network Working Group 1,Responsible for 5G NR physical layer specifications and radio access technologies
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures/channel structures."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR radio interfaces.
+RAN WG3,Radio Access Network Working Group 3,Focuses on UTRA and NR radio access network integration.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical channels and modulation."
+RAN4,Radio Access Network Working Group 4,Defines RF and RRM requirements for NR and LTE.
+RAN WG2,Radio Access Network Working Group 2,Responsible for radio interface architecture and protocols in 3GPP.
+RAN4,Radio Access Network Working Group 4,"Focuses on RF and RRM requirements, contributing to LP-WUS coverage and measurement relaxation."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of 3GPP radio access technologies
+RAN WG4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications (physical layer).
+RAN WG1,Radio Access Network Working Group 1,Responsible for RF characteristics and physical layer specifications
+RAN WG3,Radio Access Network Working Group 3,Addresses radio access network integration and interfaces.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications in 3GPP
+RAN WG2,Radio Access Network Working Group 2,3GPP group responsible for radio interface architecture and protocols
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR/LTE radio interfaces
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the specification of the physical layer of radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 5G NR systems.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for the physical layer specifications of NR and LTE.
+RAN4,Radio Access Network Working Group 4,Focuses on radio performance and protocol aspects for UE/base station testing.
+RAN2,Radio Access Network Working Group 2,Responsible for layer 2/layer 3 radio interface architecture
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access network development
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of NR and LTE
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining UE and base station functionalities in NR.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access layer standardization.
+RAN2,Radio Access Network Working Group 2,Focuses on NR protocol architecture and procedures.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including NTN enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the UE and base station radio performance and physical layer procedures.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for RF, physical layer, and MAC layer specifications in NR."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of 3GPP radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Focuses on the physical layer specifications for radio access technologies.
+RAN WG2,Radio Access Network Working Group 2,Responsible for layer 2/3 specifications
+RAN WG2,Radio Access Network Working Group 2,"Handles radio interface architecture, protocols, and signaling."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications in 3GPP NR.
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for 3GPP radio layer 1 specifications including physical layer protocols.
+RAN WG2,Radio Access Network Working Group 2,Responsible for MAC layer specifications in 3GPP
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical layer procedures
+RAN4,Radio Access Network Working Group 4,Responsible for RF and radio system performance specifications.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and scheduling mechanisms."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of 3GPP radio access technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of 3GPP NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical channels and waveforms."
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of LTE and NR
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer procedures."
+RAN2,Radio Access Network Working Group 2,Handles layer 2/layer 3 protocol aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer 1/layer 2/layer 3 radio interface protocol.
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining physical layer specifications for NR and Ambient IoT.
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio access layer specifications in 3GPP.
+RAN2,Radio Access Network Working Group 2,Radio interface architecture and protocols
+RAN WG2,Radio Access Network Working Group 2,"Responsible for radio interface architecture, protocols, and UE capabilities."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels and signals
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of 3GPP radio interfaces
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer specifications for NR radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces for cellular systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for specifying physical layer protocols in 3GPP systems
+RAN WG2,Radio Access Network Working Group 2,Handles 5G/NR radio interface architecture and protocols.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio access network specifications, including physical layer protocols and energy-saving techniques."
+TSG-RAN WG1,3GPP TSG Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols."
+RAN WG2,Radio Access Network Working Group 2,Handles radio layer 2/3 and radio interface architecture
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces for NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer 1 specifications, including physical layer design for NR."
+RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications development
+RAN WG1,Radio Access Network Working Group 1,Responsible for LTE/LTE-Advanced physical layer specifications.
+RAN WG1,Radio Access Network Working Group 1,
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access network physical layer standardization
+RAN WG1,Radio Access Network Working Group 1,Responsible for defining the physical layer specifications of 3GPP radio interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including duplex operations and resource allocation."
+RAN3,Radio Access Network Working Group 3,Focuses on RAN architecture and interfaces.
+RAN WG1,Radio Access Network Working Group 1,"Develops physical layer specifications for 3GPP radio access technologies, including NR."
+RAN WG1,Radio Access Network Working Group 1,Focuses on physical layer specifications for 3GPP radio technologies.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the physical layer of the radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of UTRA and E-UTRA.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces for UTRA and NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for the specification of the physical layer of 3GPP radio interfaces, including NR and IoT technologies."
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer specifications, including physical layer and RRM."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer specifications.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer procedures and codebooks."
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for radio layer 1 specifications including physical channels
+RAN WG4,Radio Access Network Working Group 4,Addresses radio performance aspects.
+RAN WG4,Radio Access Network Working Group 4,Handles radio performance and protocol aspects in 3GPP.
+RAN WG3,Radio Access Network Working Group 3,Handles UTRAN/GERAN overall architecture and interfaces
+RAN WG2,Radio Access Network Working Group 2,Focuses on the radio interface architecture and protocols in NR and LTE.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols and signaling."
+SA5,3GPP TSG-SA Working Group 5,"Responsible for telecom management, orchestration, and energy efficiency standards."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of NR radio interfaces
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer 1 specifications in 3GPP, including physical layer protocols and MIMO enhancements."
+RAN,Radio Access Network Working Group,3GPP group responsible for radio access technologies and specifications.
+SA2,System Architecture Group 2,Responsible for overall system architecture and network protocols
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in NR, including MIMO enhancements."
+RAN2,Radio Access Network Working Group 2,Responsible for layer 2/layer 3 specifications
+RAN WG1,Radio Access Network Working Group 1,Responsible for the specification of the radio layer 1/2/3 and radio interface architecture.
+TSG-RAN WG1,3GPP TSG RAN Working Group 1,"Responsible for radio layer 1 specifications, including physical layer protocols for LTE/NR."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including physical layer protocols and MIMO enhancements."
+RAN WG2,Radio Access Network Working Group 2,Responsible for Layer 2/Layer 3 specifications.
+RAN4,Radio Access Network Working Group 4,Deals with radio performance and protocol aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications in 3GPP NR.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for 3GPP radio layer 1 specifications, including physical layer design."
+RAN WG4,Radio Access Network Working Group 4,Responsible for radio performance and protocol aspects.
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of radio interfaces for 3GPP systems
+RAN WG1,Radio Access Network Working Group 1,Responsible for definition of physical layer specifications for NR radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of 3GPP radio standards.
+RAN WG3,Radio Access Network Working Group 3,Responsible for RF and radio system aspects
+RAN WG1,Radio Access Network Working Group 1,Responsible for the physical layer specifications of radio access technologies
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications.
+SA2,Service and System Aspects Working Group 2,Responsible for architecture and service requirements
+RAN WG1,Radio Access Network Working Group 1,Responsible for the definition of the physical layer of NR and LTE radio interfaces
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio layer specifications, including NTN and IoT enhancements."
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio resource management.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for NR physical layer specifications, including power-saving features and signal design."
+RAN WG1,Radio Access Network Working Group 1,"Responsible for radio interface specifications, including physical layer protocols."
+RAN4,Radio Access Network Working Group 4,Defines RF and RRM requirements for NR.
+TSG-RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications of NR radio interface
+RAN WG1,Radio Access Network Working Group 1,Responsible for physical layer specifications and radio access technologies
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio layer specifications, including physical layer for Ambient IoT."
+RAN WG3,Radio Access Network Working Group 3,Hands radio access network integration and testing.
+SA WG2,Service and System Aspects Working Group 2,3GPP group responsible for architecture and service requirements.
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio layer 1 specifications and physical layer protocols.
+SA5,Service and System Aspects Working Group 5,Responsible for telecom management standards and orchestration
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in 3GPP, including channel modeling."
+RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for radio access network specifications.
+RAN WG1,Radio Access Network Working Group 1,"Responsible for physical layer specifications in 3GPP NR standards, including Ambient IoT evaluation assumptions."
+RAN WG1,3GPP TSG-RAN Working Group 1,Responsible for radio layer 1 specifications including physical channels and protocols
+RAN WG3,Radio Access Network Working Group 3,Responsible for radio access network interfaces and OAM aspects
+RAN WG1,Radio Access Network Working Group 1,"3GPP group responsible for radio access layer 1 specifications, including physical layer design for NR."
+TSG-RAN WG1,Radio Access Network Working Group 1,3GPP group responsible for physical layer specifications of NR and LTE.
