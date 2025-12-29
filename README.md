@@ -113,7 +113,7 @@ Use `query_graph.py` to perform full-text searches and retrieve context from the
     python query_graph.py
     ```
 
-##  Data Model
+## Data Model
 
 The extraction logic is defined in `DataModel/datamodel.py`.
 
@@ -131,5 +131,4 @@ The extraction logic is defined in `DataModel/datamodel.py`.
   * `BELONGS_TO`: Document -> WorkingGroup
   * `APPEARS_IN`: Document -> Agenda
   * `REFERENCES`: Document -> Document
-
-
+  ---
