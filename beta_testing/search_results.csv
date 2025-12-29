@@ -1,0 +1,16 @@
+d.doc_id,d.title,d.source_path,d.meeting_id,d.release,total_score,boosted_score
+R1-240xxxx,FL summary for Additional study on AI/ML for NR air interface: CSI compression,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_116b/Docs/R1-2403503.zip,RAN1_116b,Release 19,75.39346056208016,75.39346056208016
+R1-24xxxxx,Session notes for 9.13 (TEI),https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Inbox/Xiaodong_sessions/Xiaodong's Session Notes RAN1#119 (9.13 TEI) v03.zip,RAN WG1 #119,Rel-19,64.26552009508013,64.26552009508013
+R1-2400640,Work plan for low-power wake-up signal and receiver for NR,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_116/Docs/R1-2400640.zip,RAN1_116,NR,63.669738578796384,63.669738578796384
+R1-240XXXX,"Session notes for 9.11 Non-Terrestrial Networks (NTN) for NR Phase 3, Internet of Things (IoT) Phase 3, and IoT-NTN TDD mode",https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_118b/Inbox/David_sessions/R1-240xxxx Chair notes RAN1#118bis (9.11 R19 NTN) v03.zip,RAN WG1 #118bis,Rel-19,61.51408358216284,61.51408358216284
+R1-2404854,Consideration on wake-up procedure in RRC CONNECTED mode,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_117/Docs/R1-2404854.zip,RAN1_117,Unknown,59.71987541913986,59.71987541913986
+R1-2401982,LP-WUS and LP-SS Design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_116b/Docs/R1-2401982.zip,RAN1_116b,Release 18,54.09245281219482,54.09245281219482
+R1-2406850,LP-WUS and LP-SS design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_118/Docs/R1-2406850.zip,RAN1_118,Rel-19,53.63437633514404,53.63437633514404
+R1-2400592,Consideration on wake-up procedure in connected mode,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_116/Docs/R1-2400592.zip,RAN1_116,Rel-18,53.3137243270874,53.3137243270874
+R1-2410486,LP-WUR Operation in Idle and Inactive Modes,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410487.zip,RAN1_119,NR Rel-19,52.152965807914725,52.152965807914725
+R1-2409644,Discussion on LP-WUS and LP-SS design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2409644.zip,RAN1_119,3GPP Release 19,51.7398603439331,51.7398603439331
+R1-2402339,Consideration on wake-up procedure in RRC CONNECTED mode,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_116b/Docs/R1-2402339.zip,RAN1_116b,18,51.15567215681076,51.15567215681076
+R1-2402544,Discussion on the LP-WUS and LP-SS design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_116b/Docs/R1-2402544.zip,RAN1_116b,Rel-19,50.911453056335446,50.911453056335446
+R1-2400123,Signal Design of LP-WUS and LP-SS,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_116/Docs/R1-2400123.zip,RAN1_116,Release 19,50.433519172668454,50.433519172668454
+R1-2407869,Discussion on LP-WUS and LP-SS design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_118b/Docs/R1-2407869.zip,RAN1_118b,3GPP Release 18,50.0857027053833,50.0857027053833
+R1-2407041,LP-WUR Operation in Idle and Inactive Modes,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_118/Docs/R1-2407041.zip,RAN1_118,NR Release 19,50.05865840911865,50.05865840911865
