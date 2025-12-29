@@ -1,0 +1,26 @@
+,d.doc_id,d.title,d.source_path,d.meeting_id,d.release,total_score,boosted_score
+0,R1-2410702,Feature Lead Summary #1 for 9.4.2.1: Ambient IoT – General aspects of physical layer design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410702.zip,RAN1_119,Rel-19,9.257336568832397,18.514673137664794
+1,R1-2410701,Feature Lead Summary #1 for 9.4.2.1: Ambient IoT – General aspects of physical layer design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410701.zip,RAN1_119,Rel-19,9.074021768569946,18.14804353713989
+2,R1-240xxxx,FL summary for Additional study on AI/ML for NR air interface: CSI compression,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_116b/Docs/R1-2403503.zip,RAN1_116b,Release 19,16.25263702869415,16.25263702869415
+3,R1-2410700,Feature Lead Summary #1 for 9.4.2.1: 'Ambient IoT – General aspects of physical layer design',https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410700.zip,RAN1_119,Release 19,7.697839212417602,15.395678424835204
+4,R1-2407585,RAN1 Chair’s Notes,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_118b/Inbox/Chair_notes/Chair notes RAN1#118bis v06.zip,RAN WG1 #118bis,Rel-19,14.260775005817415,14.260775005817415
+5,R1-2409364,General aspects of physical layer design for Ambient IoT,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2409364.zip,RAN1_119,Rel-18,12.951239824295044,12.951239824295044
+6,R1-2410271,Discussion on On-demand SSB SCell operation,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410271.zip,RAN1_119,Rel-18,12.754784202575683,12.754784202575683
+7,R1-2409418,On general aspects of physical layer design for Ambient IoT,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2409418.zip,RAN1_119,Rel-18+,12.745162415504455,12.745162415504455
+8,R1-2410059,Discussions on FEC/repetition in R2D and D2R,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410059.zip,RAN1_119,3GPP TSG RAN WG1 #119,12.257514429092407,12.257514429092407
+9,R1-2410028,D2R and R2D Channel/Signal Aspects for Ambient IoT,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410028.zip,RAN1_119,Rel-19,12.033157348632812,12.033157348632812
+10,R1-2409682,Discussion on General Aspects of Physical Layer Design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2409682.zip,RAN1_119,Rel-19,11.827969026565551,11.827969026565551
+11,R1-2410416,Discussion on general aspects of physical layer design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410416.zip,RAN1_119,Rel-19,11.283647966384887,11.283647966384887
+12,R1-2410096,Enhancements to enable Tx/Rx for XR during RRM measurements,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410096.zip,RAN1_119,Release 19,11.249305534362792,11.249305534362792
+13,R1-2410061,Discussion on downlink and uplink channel/signal aspects,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410061.zip,RAN1_119,Rel-19,11.150266647338867,11.150266647338867
+14,R1-2410268,Discussion on frame structure and timing aspects,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410268.zip,RAN1_119,Rel-19,10.82529911994934,10.82529911994934
+15,R1-2410209,Discussion on on-demand SSB for SCell operation,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410209.zip,RAN1_119,Release 19,10.679135537147522,10.679135537147522
+16,R1-2409712,On-demand SSB SCell Operation,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2409712.zip,RAN1_119,Rel-18,10.568797588348389,10.568797588348389
+17,R1-2409863,Discussion on enabling TX/RX for XR during RRM measurements,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2409863.zip,RAN1_119,Release 19,10.202611756324767,10.202611756324767
+18,R1-2410287,General aspects of Ambient IoT physical layer design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410287.zip,RAN1_119,Rel-19,10.164916753768921,10.164916753768921
+19,R1-2410779,Summary #1 of on-demand SSB for NES,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410779.zip,RAN1_119,2024,10.164852619171143,10.164852619171143
+20,R1-2409366,R2D and D2R channel/signal aspects for Ambient IoT,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2409366.zip,RAN1_119,Rel-19,10.156657218933105,10.156657218933105
+21,R1-2410226,Frame structure and timing aspects of Ambient IoT,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410226.zip,RAN1_119,Rel-19,10.126034426689149,10.126034426689149
+22,R1-2410267,Discussion on general aspects of physical layer design,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2410267.zip,RAN1_119,Rel-19,10.067681741714477,10.067681741714477
+23,R1-240XXXX,"Session notes for 9.11 Non-Terrestrial Networks (NTN) for NR Phase 3, Internet of Things (IoT) Phase 3, and IoT-NTN TDD mode",https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_118b/Inbox/David_sessions/R1-240xxxx Chair notes RAN1#118bis (9.11 R19 NTN) v03.zip,RAN WG1 #118bis,Rel-19,10.033308827877045,10.033308827877045
+24,R1-2409803,On remaining details of physical channels/signals for AIoT,https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_119/Docs/R1-2409803.zip,RAN1_119,3GPP,10.011891174316407,10.011891174316407

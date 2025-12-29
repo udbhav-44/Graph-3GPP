@@ -1,0 +1,3 @@
+Is R2D Repetition is supported and If yes then when is it done. 
+What are the general view on the bit level repletion for AIoT link
+What agreement are made on multiplexing related aspects of the R2D transmissions?
