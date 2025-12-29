@@ -1,9 +1,42 @@
+"""
+JSON to CSV Converter for Neo4j Import
+
+This script traverses a directory of JSON files containing 3GPP meeting data and converts them into
+normalized CSV files suitable for bulk import into a Neo4j graph database. It handles the extraction,
+deduplication, and formatting of various nodes and relationships.
+
+Key Features:
+- Recursively reads JSON files from a specified input directory.
+- Extracts and dedupes entities: Authors, Documents, Technology Entities, Working Groups, Meetings, Agendas.
+- Extracts and aggregates relationships: Authored, Mentions, Belongs To, References, Appears In.
+- Handles missing data gracefully with safe string conversion.
+- Outputs separate CSV files for each node and relationship type.
+- Ensures correct character encoding (UTF-8).
+
+Input:
+- Directory containing processed JSON files (default: "Results")
+
+Output:
+- Directory containing generated CSV files (default: "./neo4j_csv_output2")
+  - authors.csv
+  - documents.csv
+  - technology_entities.csv
+  - working_groups.csv
+  - meetings.csv
+  - agendas.csv
+  - authored.csv
+  - mentions.csv
+  - belongs_to.csv
+  - references.csv
+  - appears_in.csv
+"""
+
 import os
 import json
 import csv
 
 INPUT_FOLDER = "Results"
-OUTPUT_FOLDER = "./neo4j_csv_output"
+OUTPUT_FOLDER = "./neo4j_csv_output2"
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 # Containers for deduplication
@@ -56,12 +89,13 @@ for root, dirs, files in os.walk(INPUT_FOLDER):
             tags = "|".join(clean_list(d.get("tags")))
             keywords = "|".join(clean_list(d.get("keywords")))
             agenda_ids = clean_list(d.get("agenda_id"))
+            release = d.get("release")
 
             documents.add((
                 doc_id,
                 safe_str(d.get("version")),
                 d["title"],
-                d["release"],
+                release,
                 safe_str(d.get("type")),
                 tags,
                 d["summary"],
@@ -78,15 +112,16 @@ for root, dirs, files in os.walk(INPUT_FOLDER):
                     doc_id,
                     rel["cited_doc_id"],
                     safe_str(rel.get("type_of_reference")),
-                    rel["details"]
+                    rel.get("details", "")
                 ))
 
-            # Agenda-document relation
+            # Agenda-document relation (includes release)
             for agenda_id in agenda_ids:
                 appears_in_rels.add((
                     agenda_id,
+                    release,
                     doc_id,
-                    ""  # page_range might be None, default to empty
+                    ""  # page_range might be None
                 ))
 
         # Technology Entities
@@ -103,36 +138,37 @@ for root, dirs, files in os.walk(INPUT_FOLDER):
 
         # Meetings
         for m in data.get("meetings", []):
-            meetings.add((m["meeting_id"], m["venue"], m["wg"], m["topic"]))
+            meetings.add((m["meeting_id"], m.get("venue", ""), m.get("wg", ""), m.get("topic", "")))
 
-        # Agendas
+        # Agendas (store release)
         for a in data.get("agendas", []):
+            # If release not in agenda, try to get from linked document
+            agenda_release = a.get("release")
+            if not agenda_release:
+                for d in data.get("documents", []):
+                    if a["agenda_id"] in clean_list(d.get("agenda_id")):
+                        agenda_release = d.get("release")
+                        break
             agendas.add((
                 a["agenda_id"],
-                a.get("meeting_id", ""),
+                agenda_release if agenda_release else "",
                 a.get("topic", ""),
                 a.get("description", "")
             ))
 
         # Authored
         for rel in data.get("authored", []):
-            authored_rels.add((rel["contributor_name"], rel["doc_id"], rel["contribution_type"]))
+            authored_rels.add((rel["contributor_name"], rel["doc_id"], rel.get("contribution_type", "")))
 
         # Mentions
         for rel in data.get("mentions", []):
-            mentions_rels.add((rel["doc_id"], rel["entity_name"], rel["context"], rel["frequency"]))
+            mentions_rels.add((rel["doc_id"], rel["entity_name"], rel.get("context", ""), rel.get("frequency", "")))
 
         # Belongs_to
         for rel in data.get("belongs_to", []):
-            belongs_to_rels.add((rel["doc_id"], rel["wg_name"], rel["role_in_group"]))
+            belongs_to_rels.add((rel["doc_id"], rel.get("wg_name", ""), rel.get("role_in_group", "")))
 
-        # Appears in
-        for rel in data.get("appears_in", []):
-            appears_in_rels.add((
-                rel["agenda_id"],
-                rel["doc_id"],
-                safe_str(rel.get("page_range", ""))
-            ))
+        # Appears in (already handled above)
 
 # Write Node CSVs
 write_csv("authors.csv", ["name", "aliases"], [
@@ -162,8 +198,8 @@ write_csv("meetings.csv", ["meeting_id", "venue", "wg", "topic"], [
     {"meeting_id": mid, "venue": v, "wg": wg, "topic": t} for mid, v, wg, t in meetings
 ])
 
-write_csv("agendas.csv", ["agenda_id", "meeting_id", "topic", "description"], [
-    {"agenda_id": aid, "meeting_id": mid, "topic": t, "description": d} for aid, mid, t, d in agendas
+write_csv("agendas.csv", ["agenda_id", "release", "topic", "description"], [
+    {"agenda_id": aid, "release": rel, "topic": t, "description": d} for aid, rel, t, d in agendas
 ])
 
 # Relationship CSVs
@@ -184,8 +220,8 @@ write_csv("references.csv", ["source_doc_id", "cited_doc_id", "type_of_reference
     for s, c, t, d in references_rels
 ])
 
-write_csv("appears_in.csv", ["agenda_id", "doc_id", "page_range"], [
-    {"agenda_id": a, "doc_id": d, "page_range": p} for a, d, p in appears_in_rels
+write_csv("appears_in.csv", ["agenda_id", "release", "doc_id", "page_range"], [
+    {"agenda_id": a, "release": r, "doc_id": d, "page_range": p} for a, r, d, p in appears_in_rels
 ])
 
-print("✅ All CSVs generated in:", OUTPUT_FOLDER)
+print("All CSVs generated in:", OUTPUT_FOLDER)
